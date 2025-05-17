@@ -1,7 +1,7 @@
 {
      "Category": [
         {
-            "name": "Kitab",
+            "name": ["Kitab" , "Bədii ədəbiyyat", "Qeyri-bədii ədəbiyyat" , "Bədii uşaq ədəbiyyatı" , "Qeyri-bədii uşaq ədəbiyyatı"],
             "subCateg": [
                {
                     "name": ["Bədii ədəbiyyat" , "Qeyri-bədii ədəbiyyat" , "Bədii uşaq ədəbiyyatı" , "Qeyri-bədii uşaq ədəbiyyatı"],
