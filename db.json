@@ -1360,9 +1360,8 @@
                 "Nəşriyyat................Teas Press",
                 "Səhifə................444"
             ]
-        }
-    ],
-     {
+        },
+        {
             "id": 51,
             "name": "Stoiklərin həyatı",
             "author": "Rayan Holidey",
@@ -1391,9 +1390,8 @@
                 "Səhifə................428",
                  "Yaş................16+"
             ]
-        }
-    ],
-  {
+        },
+         {
             "id": 52,
             "name": "Paralel dünyada. Birinci hissə - Ağ, çəhrayı və narıncı",
             "author": "Aysel Şıxlı",
@@ -1422,7 +1420,7 @@
                 "Səhifə................228"
             ]
         }
-    ]
+    ],
     "slides": [
         {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1313/Banner_Desktop_v2.webp"},
          {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1310/3-web-3840x1000_7h5s-r9.webp"},
