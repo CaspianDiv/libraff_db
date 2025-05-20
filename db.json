@@ -1419,6 +1419,155 @@
                 "Nəşriyyat................Teas Press",
                 "Səhifə................228"
             ]
+        },
+           {
+            "id": 53,
+            "name": "70 kq",
+            "author": "Viam Əhməd",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/8f7da344-7a63-11ef-a554-503eaa120fc7_1.jpg.webp",
+            "price": "6.90 ₼",
+            "content": "'Sürətli çatdırılma şirkəti yükünüzü etibarlı şəkildə ünvanına çatdıracaq. Çəkidən asılı olmayaraq, ən ucuz qiymətə çatdırırıq. Kiçik qeyd: maksimum çəki 70 kq Camalla Məhbub problemlə üzləşiblər. Camal bu problemin ideal həllini tapsa da, reklamın sonundakı kiçik qeyd gözündən yayınıb. Bu qeydin ucbatından Camalın başına macəralar gəlir, nəticədə böyük həyat təcrübəsi qazanır... Bəs, görəsən, Məhbub haradadır?'",
+            "category": "Bədii uşaq ədəbiyyatı",
+            "subcategory": [
+                "Hekayələr & Oçerklər"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Viam Əhməd",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................48"
+            ]
+        },
+           {
+            "id": 54,
+            "name": "Alma ağacı",
+            "author": "Volkan Yavəroğlu",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/dba31894-e494-11ef-a56c-503eaa120fc7_1.jpg.webp",
+            "price": "4.90 ₼",
+            "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Kukuli, Tinki və Minki səhər durub çölə çıxanda gördüklərinə inana bilmədilər. Səhərə qədər davam edən qasırğa aləmi yerlə yeksan etmiş, ən çox sevdikləri alma ağacının gövdəsi qırılıb yana əyilmişdi. Təbiətsevər dostlarımız alma ağacını əvvəlki vəziyyətinə qaytarmaq üçün müxtəlif yollara əl atdılar.",
+            "category": "Bədii uşaq ədəbiyyatı",
+            "subcategory": [
+                "Hekayələr & Oçerklər"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Volkan Yavəroğlu",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................24",
+                 "Yaş................Universal"
+            ]
+        },
+            {
+            "id": 55,
+            "name": "Bir şəhər, bir liman",
+            "author": "Reyhan Yusifqızı",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a726e106-da36-11ef-a56c-503eaa120fc7_1.jpg.webp",
+            "price": "10.90 ₼",
+            "content": "Xəzərin qoynuna sığınmış BİR ŞƏHƏR, BİR LİMAN... Flaminqoların qorunduğu, ceyranların sığınacaq tapdığı liman... Bu liman Böyük İpək Yolunun dənizdən keçən marşrutlarından birinin üstündə yerləşir. Tarixi keçmişimizi bu günümüzlə, bu günümüzü isə gələcəklə birləşdirir. Azərbaycanın “dəniz qapısı” sayılan Bakı Beynəlxalq Dəniz Ticarət Limanı dünyada “Yaşıl Liman” və “Ekoloji Təmiz” liman olması ilə seçilir. İllər boyu limançıların: işçi, sürücü, krançı, tərsanəçi, dispetçerlərin fədakar əməyi sayəsində var olan bu liman gənclik şəhəridir, gənclərin şəhəridir. Gələcəkdə Bakı limanı müasir texnologiyalardan istifadə etməyi bacaran bilikli, zəkalı, qabiliyyətli gənclərin sayəsində daha da şöhrətlənəcək, 'XXI əsrin limanı' olacaq.",
+            "category": "Qeyri-bədii uşaq ədəbiyyatı",
+            "subcategory": [
+                "Səyahət & Məkanlar"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................bərk",
+                "Dil................AZE",
+                "Müəllif................Reyhan Yusifqızı",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................36",
+                 "Yaş................Universal"
+            ]
+        },
+             {
+            "id": 55,
+            "name": "Dadlı günəş",
+            "author": "Ramiz Rövşən",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/aa6e7499-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
+            "price": "11.90 ₼",
+            "content": "....Sağ ol, günəş, çox sağ ol! Hər gün bizə qonaq ol! Niyə hamı deyir: “Sən yaman odlu günəşsən”. Yox, sən odlu deyilsən, sən lap dadlı günəşsən!..",
+            "category": "Bədii uşaq ədəbiyyatı",
+            "subcategory": [
+                "Poemalar"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Ramiz Rövşən",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................64",
+                 "Yaş................Universal"
+            ]
+        },
+              {
+            "id": 56,
+            "name": "İtmiş kitab",
+            "author": "Erge Özcan",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/54753d1d-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
+            "price": "4.90 ₼",
+            "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Tinki dostları ilə kinoteatra gedəcəyi üçün çox həyəcanlı idi. Əvvəlcə Missivadan götürdüyü kitabı qaytarmalı idi. Lakin kitabı qoyduğu yerdə tapa bilmirdi. Elə macəra da bundan sonra başlayır. Siz də Tinki, Minki və Kukulinin bu macərasına qoşulmaq istərdinizmi?",
+            "category": "Bədii uşaq ədəbiyyatı",
+            "subcategory": [
+                "Hekayələr & Oçerklər"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Erge Özcan",
+                "Nəşriyyat................3 Alma",
+                "Səhifə................24",
+                 "Yaş................Universal"
+            ]
         }
     ],
     "slides": [
