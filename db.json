@@ -1362,6 +1362,67 @@
             ]
         }
     ],
+     {
+            "id": 51,
+            "name": "Stoiklərin həyatı",
+            "author": "Rayan Holidey",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a235d6a1-7f10-11ef-a555-503eaa120fc7_1.jpg.webp",
+            "price": "11.90 ₼",
+            "content": "Bu, sadəcə, bir tarix kitabı deyil. Bu kitab Epiktetdən tutmuş Mark Avreliyə – quldan imperatora qədər hər kəsə fəlsəfəni öz həyatında tətbiq etməkdə kömək edəcək şəkildə tərtib olunub. Müəlliflər əsrlər boyunca Seneka, Kato, Siseron kimi şəxsləri birləşdirən əsas dəyər və ideyaların üzərinə işıq salır. Stoiklərin həyatı əsəri əbədi stoik fəzilətlərlə – mətanət, təmkin, ədalət və müdrikliklə yaşayan insanların maraqlı həyat yollarını təqdim edir, qədim filosofların xoşbəxtlik, uğur, mətinlik və fəzilət barədə öyrətdiklərini çatdırır. Məşhur stoiklərin asan mənimsənilən mini-bioqrafiyalarından ibarət olan bu kitab stoisizmi sevən və ona uyğun yaşayan insanlara bu fəlsəfənin mənasını izah edir, onların mübarizəsindən və uğurlarından çıxarılan ibrətamiz dərsləri önə çəkir. Stoisizm Zenon adlı müflis olmuş tacirin Afinada, Stoa Poikile adlı yerdə ilk məktəbi yaratmasından 2300 il sonra idmançılardan tutmuş siyasətçilərə qədər böyüklük axtaran bütün insanlar arasında yeni auditoriya tapıb. Təəccüblü deyil ki, fəlsəfə və onun özünənəzarət, fəzilət və nəzarət edə bilmədiyimiz məsələlərə laqeydlik prinsipləri Roma imperiyasının xaosunda olduğu qədər bu gün də aktualdır. Dəyərli baxış və hekayələrin xəzinəsi olan bu kitab keçmişdə ilham qaynağı axtaranların dönə-dönə müraciət edəcəyi bir mənbədir.",
+            "category": "Qeyri-bədii ədəbiyyat",
+            "subcategory": [
+                "Şəxsi inkişaf"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................Yumşaq",
+                "Dil................AZE",
+                "Müəllif................Rayan Holidey",
+                "Nəşriyyat................Teas Press",
+                "Səhifə................428",
+                 "Yaş................16+"
+            ]
+        }
+    ],
+  {
+            "id": 52,
+            "name": "Paralel dünyada. Birinci hissə - Ağ, çəhrayı və narıncı",
+            "author": "Aysel Şıxlı",
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b889cae5-bf6a-11ef-a56b-503eaa120fc7_1.jpg.webp",
+            "price": "11.90 ₼",
+            "content": "'FENTEZİ JANRINDA YAZILMIŞ TETRALOGİYA Yer planetində artıq həyat yox idi. Ana təbiətin məhvinə gətirib çıxarmış insan əməlləri sivilizasiyaya son qoymuşdu. Uzaq gələcəkdə paralel dünyada yenidən yaranmış Həyat insanların keçmişdəki səhvlərini təkrar etməməsi üçün onların mənfi duyğularını qəlblərindən çıxarıb möhürləmiş, hər birini fərqli istiqamətlərə yönəldərək möhürləri qorumaq üçün krallıqlar yaratmışdı. Sıx meşələrin ayırdığı bu əzəmətli krallıqlar bir-birindən kəskin fərqlənirdi: adaların üstündə yerləşən Lumiya krallığı, güclü küləklərin cövlan etdiyi Eley krallığı, uçurumların üstündə ucalan Eskada krallığı, yaşıl ağacların arasında salınmış Milaros – elfl ər krallığı, soyuq Akara krallığı və odlar diyarı Kanar krallığı... Möhürlərdən birinin oğurlanması bütün krallıqların taleyini dəyişir. Axtarışlara başlamaq üçün Yuxarı Eleydən olan Kay adlı əsgər seçilir. Bu yolda onun ən yaxın dostu və yol yoldaşı küləkdən yaranmış məsləhətçi Reyn olur... Onları qarşıda nələr gözləyir? Lumiyanın gözəl şahzadəsi Elyanoraya olan hissləri Kaya həqiqətləri açmaqda mane olmayacaq ki?!'",
+            "category": "Qeyri-bədii ədəbiyyat",
+            "subcategory": [
+                "Elmi-fantastika & Fantaziya"
+            ],
+            "language": [
+                "AZ",
+                "RU",
+                "EN",
+                "FR",
+                "DE"
+            ],
+            "stockCount": 2,
+            "soldCount": 3,
+            "view": 0,
+            "feature": [
+                "Cild................bərk",
+                "Dil................AZE",
+                "Müəllif................Aysel Şıxlı",
+                "Nəşriyyat................Teas Press",
+                "Səhifə................228"
+            ]
+        }
+    ]
     "slides": [
         {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1313/Banner_Desktop_v2.webp"},
          {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1310/3-web-3840x1000_7h5s-r9.webp"},
@@ -1620,6 +1681,10 @@
         {
             "id": 50,
             "comment": "Hər dəfə oxuyanda yeni məna kəşf etdiyim əsər."
+        },
+        {
+            "id": 51,
+            "comment": "Çox Gözəl kitabdır."
         }
     ],
     "delivery information": [
