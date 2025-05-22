@@ -1832,9 +1832,33 @@
         {
             "id": 51,
             "comment": "Çox Gözəl kitabdır."
-        }
+        },
+       {
+        "id": 52,
+        "comment": "Bu kitab həqiqətən möhtəşəmdir! Hər səhifəsi maraqlı və öyrəticidir."
+    },
+    {
+        "id": 53,
+        "comment": "Əla bir əsərdir, oxuyarkən özümü içərisində hiss etdim."
+    },
+    {
+        "id": 54,
+        "comment": "Fantastik kitabdır! Müəllifin yazı tərzi çox cəlbedicidir."
+    },
+    {
+        "id": 55,
+        "comment": "Bu kitabı oxumağı hamıya tövsiyə edirəm. Çox faydalı və maraqlıdır."
+    },
+    {
+        "id": 56,
+        "comment": "Əvvəldən axıra qədər həyəcanla oxudum. Mükəmməl bir əsərdir!"
+    },
+    {
+        "id": 57,
+        "comment": "İnanılmaz dərəcədə yaxşı kitabdır. Düşüncələrimə təsir etdi."
+    }
     ],
-    "delivery information": [
+    "delivery": [
         {
             "text": "Çatdırılma haqqında Bakı şəhəri üçün təxmini müddət və qiymətlər. Mağazadan təhvil alma — pulsuz. Kuryer ilə — operator təsdiqindən sonra 24 saat ərzində. 30 AZN və yuxarı sifarişlərdə — pulsuz.Bölgələrə çatdırılma 3-5 iş günü ərzində."
         }
