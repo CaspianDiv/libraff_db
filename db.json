@@ -29,8 +29,7 @@
         }
     ],
     "books": [
-       [
-    {
+        {
         "id": 1,
         "name": "Seçilmiş Əsərləri",
         "author": "Lev Tolstoy",
@@ -1685,7 +1684,6 @@
             }
         ]
     }
-]
     ],
     "slides": [
         {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1313/Banner_Desktop_v2.webp"},
