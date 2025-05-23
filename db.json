@@ -29,1661 +29,1663 @@
         }
     ],
     "books": [
-        {
-        "id": 1,
-        "name": "Seçilmiş Əsərləri",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/7bb4b02e-faef-11ed-a519-503eaa120fc7_1.jpg.webp",
-        "price": "9 ₼",
-        "content": "Bu kitabda dahi rus yazıçısı Lev Tolstoyun həyat və yaradıcılığı ilə bağlı məlumat verilib, ilk dəfə olaraq ölümündən sonra çap edilən bəzi əsərləri yer alıb. Lev Tolstoy Hərb və sülh, Anna Karenina kimi əsərləri ilə dünya səviyyəsində şöhrət qazansa da, özü İblis və Sergi ata əsərlərinə daha çox üstünlük verib.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Bioqrafiya, avtobioqrafiya & Xatirə"
-        ],
-        "language": [
-            "AZ",
-            "TUR",
-            "EN",
-            "RU"
-        ],
-        "stockCount": 4,
-        "soldCount": 2,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Lev Tolstoy",
-                "Nəşriyyat": "Qədim Qala",
-                "səhifə": 200
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Anna Karenina",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "24.90 ₼",
-        "content": "Lev Tolstoyun şah əsərlərindən olan “Anna Karenina” ailə dramı, sevgi, cəmiyyət və mənəvi dəyərlər kimi mürəkkəb mövzuları əhatə edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN"
-        ],
-        "stockCount": 8,
-        "soldCount": 15,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "TUR",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "İş Bankası Kültür Yayınları",
-                "səhifə": 62
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Balaca Şahzadə",
-        "author": "Antuan Dö Sent Ekzüperi",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/fc7e8998-284c-11ed-a50a-503eaa120fc7_1.jpg.webp",
-        "price": "3.00 ₼",
-        "content": "Antuan de Sent-Ekzüperinin həm uşaqlar, həm də böyüklər üçün yazdığı bu fəlsəfi nağıl dostluq, sevgi, həyatın mənası kimi dərin mövzulara toxunur.",
-        "category": "Uşaq ədəbiyyatı",
-        "subcategory": [
-            "Nağıllar"
-        ],
-        "language": [
-            "AZ",
-            "TR",
-            "EN",
-            "RU"
-        ],
-        "stockCount": 22,
-        "soldCount": 45,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Мягкая обложка",
-                "dil": "AZE",
-                "müəllif": "Antuan Dö Sent Ekzüperi",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 154
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Uçan Sinif",
-        "author": "Erix Kestner",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/664c21c2-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "13.90 ₼",
-        "content": "Erix Kestnerin yazdığı bu macəra dolu uşaq romanı internat məktəbində oxuyan bir qrup oğlanın dostluqlarını, çətinlikləri və əyləncəli anlarını təsvir edir.",
-        "category": "Uşaq ədəbiyyatı",
-        "subcategory": [
-            "Macəra"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 18,
-        "soldCount": 30,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Мягкая обложка",
-                "dil": "TUR",
-                "müəllif": "ERICH KASTNER",
-                "nəşriyyat": "Can Yayınları",
-                "səhifə": 191
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Səfillər",
-        "author": "Viktor Hüqo",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5e1c96dc-0686-11ed-a509-503eaa120fc7_1.jpg.webp",
-        "price": "14.90 ₼",
-        "content": "Viktor Hüqonun monumental əsəri olan “Səfillər” XIX əsrin Fransa cəmiyyətinin həyatını, insan talelərini, ədalətsizliklə mübarizəni epik bir şəkildə təsvir edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 5,
-        "soldCount": 12,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "Viktor Hüqo",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 768,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Don Kixot",
-        "author": "Migel de Servantes",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/80f5d4e7-bf40-11ed-a519-503eaa120fc7_1.jpg.webp",
-        "price": "6.50 ₼",
-        "content": "Migel de Servantesin şah əsəri olan “Don Kixot” cəngavər romanlarının parodiyası olmaqla yanaşı, insan xarakterinin dərinliklərinə də nüfuz edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassik ədəbiyyat",
-            "Satira"
-        ],
-        "language": [
-            "AZ",
-            "ES",
-            "EN"
-        ],
-        "stockCount": 10,
-        "soldCount": 20,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE/ENG",
-                "müəllif": "Migel De Servantes",
-                "nəşriyyat": "Logos",
-                "səhifə": 120
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Şəhriyar",
-        "author": "Məhəmməd Hüseyn Şəhriyar",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/29c2ae49-13bc-11ed-a509-503eaa120fc7_1.jpg.webp",
-        "price": "8.50 ₼",
-        "content": "Seyid Məhəmmədhüseyn Behcət Təbrizi (Məhəmmədhüseyn Şəhriyar) (1906-1988) Təbriz şəhərinin Bağmeşə bölgəsində, hüquqşünas Hacı Mirağa Xoşginabinin ailəsində dün 'Yay'a gəlmişdir. Şəhriyar Təbrizdə orta 'Təhsil' almış, Tehran Universitetinin tibb fakültəsini bitirmişdir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Poeziya",
-            "Satira"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 25,
-        "soldCount": 35,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Мягкая обложка",
-                "dil": "AZE",
-                "müəllif": "Məhəmməd Hüseyn Şəhriyar",
-                "nəşriyyat": "Kitab Klubu",
-                "səhifə": 440
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Yevgeni Onegin",
-        "author": "Aleksandr Puşkin",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5adec366-6f96-11ec-a4fd-503eaa120fc7_1.jpg.webp",
-        "price": "7.00 ₼",
-        "content": "Aleksandr Puşkinin məşhur mənzum romanı “Yevgeni Onegin” XIX əsrin rus cəmiyyətinin həyatını, sevgi və dostluq münasibətlərini təsvir edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Poeziya",
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 12,
-        "soldCount": 18,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE/ENG",
-                "müəllif": "Aleksandr Sergeyeviç Puşkin",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 216
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Kiçik Qara Balıq",
-        "author": "Səməd Behrəngi",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/bf75c719-20fa-11f0-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "3.50 ₼",
-        "content": "Səməd Behrənginin yazdığı bu məşhur uşaq hekayəsi öz kiçik dünyasından çıxıb böyük okeanı kəşf etmək istəyən cəsur bir balığın macəralarını nəql edir.",
-        "category": "Uşaq ədəbiyyatı",
-        "subcategory": [
-            "Hekayələr"
-        ],
-        "language": [
-            "AZ",
-            "TR"
-        ],
-        "stockCount": 30,
-        "soldCount": 50,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "müəllif": "SƏMƏD BEHRƏNGI",
-                "nəşriyyat": "Mücrü Nəşriyyatı",
-                "səhifə": 28
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Siz möhtəşəmsiniz",
-        "author": "Metyu Syed",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/26515e1e-7dc8-11ec-a4fd-503eaa120fc7_1.jpg.webp",
-        "price": "6.90 ₼",
-        "content": "ƏGƏR İSTƏNİLƏN SAHƏDƏ MÖHTƏŞƏM OLSANIZ, NƏ BAŞ VERƏR? Bu sizin təsəvvür etdiyiniz kimi əlçatmaz iş deyil. Əgər siz aşağıdakı kimi düşünürsünüzsə... • Riyaziyyatla məşğul olmaq üçün xüsusi növ beyin lazımdır; • İdmanda ya istedadlısınız, ya da ki yox; • Bədənimdə musiqini duyan sümük yoxdur ...o halda bilin ki, bu kitabı sizin üçün yazmışam. Sizin irəli getməyinizə mane olan inanclarınıza meydan oxumaq üçün yazmışam. Doğru düşüncəniz sizə istənilən sahədə uğur qazanmağa, xəyallarınızı gerçəkləşdirməyə kömək edə bilər. MƏN BİLİRƏM Kİ, bunu bacararsınız. Necə? Məsələn, mən özüm anadan idmançı doğulmasam da, ikiqat olimpiya çempionuyam. Bəs heç bilirsiniz, sizin bu işi bacaracağınızı haradan bilirəm? ÇÜNKİ SİZ MÖHTƏŞƏMSİNİZ.",
-        "category": "Elmi-kütləvi ədəbiyyat",
-        "subcategory": [
-            "Kitab",
-            "Qeyri-bədii uşaq ədəbiyyatı",
-            "Şəxsi İnkişaf"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 15,
-        "soldCount": 25,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Metyu Syed",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 160
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Diriliş",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/32e82a63-85c4-11ed-a513-503eaa120fc7_1.jpg.webp",
-        "price": "12.90 ₼",
-        "content": "L. Tolstoyun mənəvi axtarışlarını əks etdirən bu roman insan təbiətinin dərinliklərinə nüfuz edir...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 7,
-        "soldCount": 5,
-        "view": 0,
-        "feature": [
-            {
-                "dil": "TUR",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "İş Bankası Kültür Yayınları",
-                "səhifə": 637
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Hərb və Sülh (I cild)",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/4a0bd9de-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "15.40 ₼",
-        "content": "Rus cəmiyyətinin Napoleon müharibələri dövründəki həyatını təsvir edən monumental əsər...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman",
-            "Tarixi roman"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 3,
-        "soldCount": 8,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 1024
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Hərb və Sülh (II cild)",
-        "author": "Lev Tolstoy",
-        "img": "https://kitabevim.az/wp-content/uploads/2021/05/1f82414ea443ec87cc227581eca18169.jpg",
-        "price": "15 ₼",
-        "content": "Dünya ədəbiyyatında özünəməxsus yeri olan məşhur rus yazıçısı L.N.Tolstoyun 1804-1807 və 1812-1813-cü illər rus-fransız müharibələrinə həsr olunmuş “Hərb və sülh” romanında ədibin bədii dühasının xəlqiliyi tam vüsətlə öz əksini tapıb. Romanın ikinci hissəsi də əvvəlki hissədə olduğu kimi gərgin hadisələr, münaqişələr və sevgi epizodları ilə zəngindir. Vətənpərvərlik və xəyanət, ziddiyyətli insan xarakterləri, həyatın bədii boyalarla və rəngarəng təsvirləri bir daha böyük Tolstoy irsinə məxsus keyfiyyətləri təsdiq edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman",
-            "Tarixi roman"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 5,
-        "soldCount": 6,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 1024
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Anna Karenina (I cild)",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "12 ₼",
-        "content": "Ailə dramı, sevgi və cəmiyyətin mənəvi dəyərlərini əks etdirən məşhur roman...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN"
-        ],
-        "stockCount": 8,
-        "soldCount": 15,
-        "view": 0,
-        "feature": [
-            {
-                "dil": "TUR",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "İş Bankası Kültür Yayınları",
-                "səhifə": 1062
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "name": "Anna Karenina (II cild)",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b39a7ef2-504c-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "23.90 ₼",
-        "content": "Anna Karenina is a novel of unparalleled richness and complexity, set against the backdrop of Russian high society. Tolstoy charts the course of the doomed love affair between Anna, a beautiful married woman, and Count Vronsky, a wealthy army officer who pursues Anna after becoming infatuated with her at a ball. Although she initially resists his charms Anna eventually succumbs, falling passionately in love and setting in motion a chain of events that lead to her downfall. In this extraordinary novel Tolstoy seamlessly weaves together the lives of dozens of characters, while evoking a love so strong that those who experience it are prepared to die for it.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Roman"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN"
-        ],
-        "stockCount": 6,
-        "soldCount": 10,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Paperback",
-                "dil": "ENG",
-                "müəllif": "Lev Tolstoy",
-                "nəşriyyat": "Vintage Classics",
-                "səhifə": 992
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "name": "İblis",
-        "author": "Lev Tolstoy",
-        "img": "https://images.penguinrandomhouse.com/cover/9781612192321",
-        "price": "3.49 ₼",
-        "content": "Dahi yazar Lev Tolstoy “Şeytan” povestində – əksər əsərlərində olduğu kimi gördüyü, duyduğu, mənimsədiyi həyatı məsələləri ön plana çəkmişdir. Povestin mövzusunun real həyatdan götürülməsi onu daha da özünəməxsus ştrixlərlə zənginləşdirən cəhətlərdəndir. Əsərin qəhrəmanı Yevgeni müəllifin hisslərini oxucuya təqdim edən vasitədir. Əsər boyu müəllif bu obrazın gücü, köməyi ilə Şeytana qarşı mübarizə aparır. Bəs şeytanla insanın amansız mübarizəsində sonda qalib gəlirmi?",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Povest"
-        ],
-        "language": [
-            "AZ",
-            "TUR",
-            "RU"
-        ],
-        "stockCount": 12,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 96
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Sergi Ata",
-        "author": "Lev Tolstoy",
-        "img": "https://www.qanun.az/images/news/compressed/240x370/2021-09-14-10-39-351631601575.jpg?v=1",
-        "price": "2.99 ₼",
-        "content": "Dünyəvi həyatdan uzaqlaşıb dinə sığınan bir insanın mənəvi yüksəliş və enişlərini təsvir edən povest...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Povest"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 9,
-        "soldCount": 7,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 80
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Kavkaz Əsiri",
-        "author": "Aleksandr Puşkin",
-        "img": "https://www.qanun.az/images/news/compressed/240x360/2021-09-10-14-25-591631269559.jpg?v=1",
-        "price": "3.99 ₼",
-        "content": "A.S.Puşkin öz üsyankar şeirlərinə görə Cə­nuba sürgün ediləndən sonra məş­hur «Cənub poe­ma­ları»nı yazmışdır. Bu sil­si­lə­dən olan poemaların birincisi «Qafqaz əsi­ri»dir. Əsər şairin sürgün illərində öz yaşadıqlarının bədii təsviridir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Hekayə"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 18,
-        "soldCount": 12,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Aleksandr Puşkin",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 80
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "name": "Hacı Murat",
-        "author": "Lev Tolstoy",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/481f8397-3769-11ee-a519-503eaa120fc7_1.jpg.webp",
-        "price": "4.90 ₼",
-        "content": "1854´de Kırım Savaşı´na subay olarak katılan Tolstoy, bu döneme dair izlenimlerini Hacı Murat´da bütün canlılığıyla romana aktardı. Savaşan taraflar kadar, egemenler ve uyrukları arasındaki ilişkilerin sergilenişi, kişilerin ve coğrafyanın kusursuz tasviri bu esere güçlü bir gerçeklik duygusu kazandırmaktadır. Tolstoy´un 1896-1904 yılları arasında yazdığı Hacı Murat, ölümünden sonra 1912´de yayımlandı",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Povest",
-            "Tarixi povest"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 11,
-        "soldCount": 9,
-        "view": 0,
-        "feature": [
-            {
-                "dil": "TUR",
-                "müəllif": "Lev Nikoloyeviç Tolstoy",
-                "nəşriyyat": "İş Bankası Kültür Yayınları",
-                "səhifə": 165
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "name": "Gənc Şerlok. İti bıçaq",
-        "author": "Endyu Leyn",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/d2566ecf-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "3.49 ₼",
-        "content": "'Güclü partlayış... Dəhşətli qətllər, tükürpərdici əməllər, dolaşıq məsələlər, daim ölüm-dirim mübarizəsi və daha nələr, nələr...' - Çarli Hiqson HƏR ƏFSANƏNİN BİR BAŞLANĞICI VAR Gənc Şerlok Holms Qərbi İrlandiyadadır. Lakin tətilə getməyib. Qardaşı Maykroft ölülərlə ünsiyyət qura bildiyini iddia edən və öz xidmətlərini ən yüksək qiymətə satmağa hazırlaşan medium araşdırır. Şerlok, Maykroft və Avropa dövlətlərinin rəsmi nümayəndələri həmin mediumun ölülər dünyasının sirlərini həqiqətən bilib-bilmədiyini dəqiqləşdirməlidir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Detektiv"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 6,
-        "soldCount": 14,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "ENDYU LEYN",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 280
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "name": "Müfəttiş",
-        "author": "Nikolay Qoqol",
-        "img": "https://kitabevim.az/wp-content/uploads/2025/02/2021-09-14-10-29-451631600985.jpg",
-        "price": "3.49 ₼",
-        "content": "“Müfəttiş” dahi rus yazıçısı Qoqolun tərəfindən qələmə alınan 5 pərdəli komediyadır. Əsər Puşkinin təsiri ilə qələmə alınmışdır. Belə ki, Puşkin o dövrdə bir çox şəxsin özünü yalandan müfəttiş kimi qələmə verib saxtakarlıq və özbaşınalıqlara yol verməsi haqda Qoqola söhbət açır. Qoqol da bu mövzudan ilhamlanaraq bu möhtəşəm əsəri yazmağa başlayır. Əsərdə saxtakar bir şəxsin müfəttiş adıyla özbaşınalıqlar törətməsi, kənd əhalisi bunu anladıqda isə gerçək müfəttişin kəndə təşrif buyurması sadə dillə əks olunub.",
-        "category": "Dram əsərləri",
-        "subcategory": [
-            "Komediya"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 20,
-        "soldCount": 18,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Nikolay Qoqol",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 128
-            }
-        ]
-    },
-    {
-        "id": 22,
-        "name": "Burun",
-        "author": "Nikolay Qoqol",
-        "img": "https://kitabevim.az/wp-content/uploads/2024/04/1560145.jpg",
-        "price": "5.49 ₼",
-        "content": "Qəribə və fantastik bir hadisənin baş qəhrəmanın həyatına təsirini təsvir edən hekayə...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Hekayə",
-            "Fantastika"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 25,
-        "soldCount": 22,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Nikolay Qoqol",
-                "nəşriyyat": "Çardaq Nəşriyyat",
-                "səhifə": 60
-            }
-        ]
-    },
-    {
-        "id": 23,
-        "name": "Şinel",
-        "author": "Nikolay Qoqol",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/e49af988-494d-11ed-a50b-503eaa120fc7_1.jpg.webp",
-        "price": "4.90 ₼",
-        "content": "Dahi yazıçı Qoqolun “Şinel” hekayəsi rus ədəbiyyatının “kiçik insan” mövzusunda yazılmış ən sanballı əsərlərindən biridir. Dostoyevskiyə istinad edilən “hamımız Qoqolun şinelindən çıxmışıq” sözü bu qısa, amma bənzərsiz mətnin necə böyük ədəbi fakt olduğunu çox bariz şəkildə göstərir. Süjet xətti elə də mürəkkəb olmayan əsərin dünya ədəbiyyatında bu qədər əhəmiyyət daşımasında Qoqolun sənətkarlığının müstəsna rolu var. Hekayə ironiya, metafora, simvolizmlə zəngindir, süjeti acı bir realistik xətlə davam eləsə də, sonlara doğru fantastik istiqamət alır, hadisələr absurdizmin içində cərəyan edir. Qoqol sənətkaranə şəkildə Akaki Akakiyeviçin kədərli həyatını təhkiyəsində sentimentallığa yer vermədən, əksinə, ironiya və sarkazmla təqdim edir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Hekayə"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 15,
-        "soldCount": 28,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Nikolay Qoqol",
-                "nəşriyyat": "Nikolay Qoqol",
-                "səhifə": 80
-            }
-        ]
-    },
-    {
-        "id": 24,
-        "name": "Evlənmə",
-        "author": "Nikolay Qoqol",
-        "img": "https://mir.az/uploads/posts/2023-01/1675174810_Mir.az-0000000416804-1.webp",
-        "price": "4 ₼",
-        "content": "Evlənmək istəyən bir neçə insanın komik vəziyyətlərini təsvir edən pyes...",
-        "category": "Dram əsərləri",
-        "subcategory": [
-            "Komediya"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 10,
-        "soldCount": 16,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Nikolay Qoqol",
-                "nəşriyyat": "Qanun nəşriyyatı",
-                "səhifə": 1024
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "name": "Cəhənnəmdən gələn səs",
-        "author": "Elxan Elatlı",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/3dfe5a0f-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "9.90 ₼",
-        "content": "Detektiv romanlar müəllifi Elxan Elatlının 'Cəhənnəmdən gələn səs' romanında XX əsrin ən dəhşətli vəhşiliyi olan Xocalı soyqırımından, erməni əsirliyindəki azərbaycanlıların qorxunc planlara alət edilməsindən və onların tükürpərdici aqibətindən bəhs olunur. 17 ildir erməni əsirliyində olan bir azərbaycanlı qadın təsadüfən əlinə keçən imkandan istifadə edərək Bakıdakı təsadüfi nömrələrin birinə zəng vurub Azərbaycanda təxribat və qətllərə hazırlaşan ermənilərin müdhiş planı haqda məlumat verir. Qadın özü kimi erməni əsirliyində olan Səid adlı oğlunun təlimatlandırılaraq Bakıya göndərildiyini deyib telefonu söndürür. Gecə yarısı evinə zəng gələn adam isə bu məlumatı Azərbaycanın xüsusi xidmət orqanlarına çatdırır. Azərbaycan kəşfiyyatçıları dərhal fəaliyyətə keçərək əməliyyat planı hazırlayırlar. 'Leopard' ləqəbli Azərbaycan kəşfiyyatçısı Ermənistandan Bakıya zəng vuran qadını axtarmaq üçün düşmən ölkənin ərazisinə keçir... Kitab geniş oxucu kütləsi üçün nəzərdə tutulub.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Detektiv"
-        ],
-        "language": [
-            "AZ",
-            "TR",
-            "EN",
-            "RU"
-        ],
-        "stockCount": 22,
-        "soldCount": 45,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Elxan Elatlı",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 476
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "name": "Səyahət kitabı",
-        "author": "Malkolm Kraft",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/cc57df11-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "29.90 ₼",
-        "content": "Bu kitabda planetimizdəki bütün ölkələr, nadir heyvanlar, qeyri-adi mənzərəyə malik məkanlar, əyləncəli festivallar və inanılmaz ləzzətə malik yeməklər barədə maraqlı məlumatlar cəmləşdirilib. Oxucular yapışqan bulkalardan hazırlanmış nəhəng qülləyə necə qalxa biləcəklərini, bokikokikonun nə olduğunu, ilk dəfə qütb ayısının kimə hədiyyə edildiyini və daha bir çox məlumatları öyrənə biləcəklər.",
-        "category": "Qeyri-bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Səyahət & Məkanlar"
-        ],
-        "language": [
-            "AZ",
-            "FR"
-        ],
-        "stockCount": 14,
-        "soldCount": 10,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Malkolm Kraft",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 212
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "name": "Nəfəs",
-        "author": "Ramiz Rövşən",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/85604437-24bf-11ef-a54e-503eaa120fc7_1.jpg.webp",
-        "price": "19.90 ₼",
-        "content": " 'Bir cildin altında beş kitab. Kitablar kitabı. Ramiz Rövşənin bu bircildliyi sözlərdən hörülmüş evə bənzəyir. Bir damın altında beş otaq. Əsərləri dünyanın bir çox ölkələrində çap edilmiş, ingilis, fransız, alman, ispan, polyak, bolqar, rus, Ukrayna və s. dillərə tərcümə olunmuş şairin bu bircildliyi ana dilimizdə işıq üzü görən ən irihəcmli kitabıdır. İnanırıq ki, bir çox şeirləri dillər əzbəri olan bu kitabın ilk dəfə müəllifin imzası ilə çap edilən bu yeni, nəfis nəşri həm şairin köhnə oxucularını sevindirəcək, həm də ona yeni-yeni oxucular qazandıracaq.'",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Poemalar"
-        ],
-        "language": [
-            "AZ",
-            "FR"
-        ],
-        "stockCount": 19,
-        "soldCount": 13,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Ramiz Rövşən",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 768
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Gecə Uçuşu",
-        "author": "Antoine de Saint-Exupéry",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/2a153cdf-3769-11ee-a519-503eaa120fc7_1.jpg.webp",
-        "price": "6.90 ₼",
-        "content": "Patagonya, Şili ve Paraguay’dan kalkan üç posta uçağı güneyden, batıdan ve kuzeyden Buenos Aires’e gelmektedir. Avrupa uçağının gece yarısı kalkabilmesi için onların getireceği kargo beklenmektedir. Üç pilotun her biri duba gibi ağır bir motor kapağının ardında, gecede yitip gitmiş, uçuşlarıyla ilgili derin düşüncelere dalmıştır. Tüm bu ağın yöneticisi olan Rivière gecenin getireceklerinin endişesiyle Buenos Aires iniş pistinde bir aşağı bir yukarı gidip gelmektedir… Antoine de Saint-Exupéry, Prix Femina (1931) ödüllü bu romanında kendi pilotluk deneyimlerinden yola çıkarak anlattığı tek bir gecenin hikâyesiyle, ticari havacılığın geleceğini ellerinde tutan pilotların yaşamlarının havayolu şirketleri için nasıl sadece bir araç olduğunu gözler önüne seriyor.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "FR"
-        ],
-        "stockCount": 16,
-        "soldCount": 11,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Ciltsiz",
-                "dil": "TUR",
-                "müəllif": "Antoine de Saint-Exupéry",
-                "nəşriyyat": "Alfa Yayınları",
-                "səhifə": 112
-            }
-        ]
-    },
-    {
-        "id": 29,
-        "name": "21 günə həyatını dəyiş",
-        "author": "Luiza Hey",
-        "img": "https://www.libraff.az/images/from_1c/066de26d-1fba-11ed-a50a-503eaa120fc7_1.jpg",
-        "price": "8.90 ₼",
-        "content": " ' Güzgü işi” Luiza Heyin insanın özü və başqaları ilə daha dərin münasibətlər qura və inkişaf etdirə bilməsi, həmçinin dəyərli və mənalı həyat yaşaması üçün işləyib hazırladığı və uzun müddətdir ki, tətbiq etdiyi bir metoddur. İndi isə müəllif “Güzgü işi” kitabında göstərir ki, bu sadə, lakin çox effektiv metodu cəmi 21 gün ərzində pozitiv dəyişikliyinizi və özünüzə qayğını davamlı olaraq dəstəkləyən bir üsul kimi öyrənə bilərsiniz. “İnsanlara affirmasiyaları öyrətməyə başladığım gündən bəri onlara “güzgü işi” metodunu da öyrədirəm. Ən təsirli və effektiv affirmasiyalar isə sizin güzgü qarşısında dayanaraq ucadan söylədiyiniz affirmasiyalardır. Bu zaman güzgü özünüzlə bağlı hiss etdiklərinizi əks etdirərək sizə “geri qaytarır” və siz harada müqavimət göstərdiyinizin, harada isə açıq, səmimi və rahat davrandığınızın dərhal fərqinə varırsınız. Güzgü sizə açıq-aydın göstərir ki, xoşbəxt və dolğun bir həyat yaşamaq istəyirsinizsə, buna mane olan düşüncələrinizi dəyişməli olacaqsınız'. Luiza Hey",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Şəxsi inkişaf"
-        ],
-        "language": [
-            "AZ",
-            "FR"
-        ],
-        "stockCount": 12,
-        "soldCount": 9,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Luiza Hey",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 184,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "name": "1984",
-        "author": "CORC ORUELL",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
-        "price": "6.80 ₼",
-        "content": " '1984' romanı dünya ədəbiyyatının ən çox tərcümə olunan və ən çox oxunan əsərlərindən biridir. 100-ə yaxın dilə çevrilmiş bu romanda totalitarizmin dəhşətləri və diktaturanın insan həyatını məhv edən qansızlıqları böyük ustalıqla təsvir olunub. Əsəri oxuyan hər kəs onun ilk cümləsindən sonuncusunadək gərginlik içində qalır və kitabı əlindən yerə qoymaq istəmir. İnsanı tilsimləyən səbəblərdən biri də odur ki, 73 il əvvəl yazılan əsəri oxuduqca müasir dünyanın ayrı-ayrı guşələrində hələ də bu məşhur antiutopiya romanında təsvir edilmiş cəmiyyətə oxşayan quruluşların olduğunu görürük. Müəllifin təqdim etdiyi cəmiyyətin əsas şüarları bunlardır: Müharibə – sülhdür! Azadlıq – köləlikdir! Cəhalət – qüvvədir! Yalan – həqiqətdir! Məhəbbət – ölümdür! Bəs “qaranlığın olmadığı yerdə” görüşməyə ümid edən, daha işıqlı gələcəyin mövcudluğuna inanan Uinston Smit və onun sevgilisi Culiya bu istəklərinə çatacaqmı? Daim onlara “baxan” Böyük Qardaşın baxışlarından gizlənə, onları fasiləsiz izləyən teleekrandan yayına, tiranın həmişə başlarının üstündə olan dəmir pəncəsindən qurtula biləcəklərmi?...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 18,
-        "soldCount": 30,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "CORC OURELL",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 372,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 31,
-        "name": "Drakula",
-        "author": "BREM STOKER",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/8e1b01ad-1509-11f0-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "15.90 ₼",
-        "content": "Əsərin mənfi qəhrəmanı qraf Drakula gerçək ömrünü neçə əsr qabaq başa vurub, lakin hələ xortdan kimi yaşayır. O, insan qanına yerikləyən vampirdir, adamların qanını içir, onları öz zombilərinə, kölələrinə çevirir və bu ehtirasını söndürmək üçün hər fitnəyə qol qoyur. Qraf Drakulanın getdikcə artan iştahası onu xarabazar qəsrindən çıxıb daha izdihamlı, daha gur məskən seçməyə vadar edir. Onun məqsədi yeni insan növü yaratmaqdır. O öz bəndələrini yaratmaq istəyir və Allaha meydan oxuyur. Güclüdür, hiyləgərdir, bütün insanlardan təcrübəlidir… Ölmür, amma heç də ölməz deyil…",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "DE"
-        ],
-        "stockCount": 21,
-        "soldCount": 17,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "BREM STOKER",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 484,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 32,
-        "name": "Emil və Detektivlər",
-        "author": "Erix Kestner",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/af219729-d5aa-11ec-a501-503eaa120fc7_1.jpg.webp",
-        "price": "4.00 ₼",
-        "content": "Alman uşaq ədəbiyyatının klassiki sayılan Erix Kestnerin “Emil və detektivlər” əsəri Emil adlı uşağın başına gələn macəralardan bəhs edir. İlk dəfə Berlinə qatarla yola düşən Emil çox həyəcanlıdır. Lakin onunla eyni kupedə səyahət edən koteloklu cənabın görünüş və hərəkətlərini bəyənmir. Sonra Emil yuxuya gedir. Oyananda görür ki, kupedəki koteloklu cənab da, cibindəki pullar da yoxdur. Elə əsl macəra da bundan sonra başlayır. O, Berlində tanış olduğu uşaqlarla – gənc detektiv dəstəsi ilə birləşərək oğrunu tutmaq üçün təqibə başlayır.",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Detektiv"
-        ],
-        "language": [
-            "AZ",
-            "RU"
-        ],
-        "stockCount": 15,
-        "soldCount": 25,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Erix Kestner",
-                "nəşriyyat": "Libra",
-                "səhifə": 148
-            }
-        ]
-    },
-    {
-        "id": 33,
-        "name": "Qanadsız mələk",
-        "author": "Aysel Şıxlinskaya",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/f8dc0b75-d291-11ec-a501-503eaa120fc7_2.jpg.webp",
-        "price": "8.90 ₼",
-        "content": "'... Yerimizdən qalxıb qapıya tərəf addımladıq. Qapının ağzında dar pilləkənlərdə dayandıq. Çölü içəridən cəmi dörd-beş addım ayırsa da, bir anda bütün səslər kəsildi. Külək başımızın üstündə yanıb-sönən zəif işıqlı lampanı astaca yellədirdi. Paslanmış lampanın çıxardığı cıqqıltı səsi sakitliyi pozan yeganə səs idi... Yanaşı durmuşduq. Bir az əvvəl susmayaraq danışıb-gülən insanlar indi bir-birinə deməyə nəinki söz tapmır, hətta bir-birinin üzünə də baxa bilmirdi. İkimiz də qaranlıq, boş küçəyə, yağan yağışa baxırdıq. Danışmırdıq...' ... 'Qanadsız mələk' həssas qəlbləri titrədəcək bir sevgi romanıdır.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Romanlar & Novellalar"
-        ],
-        "language": [
-            "AZ",
-            "DE"
-        ],
-        "stockCount": 10,
-        "soldCount": 12,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Aysel Şıxlinskaya",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 372,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "name": "Bir at bara girir",
-        "author": "Devid Qrossman",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/fe999587-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "10.00 ₼",
-        "content": "Kiçik İsrail şəhərində komik Dov Qrinşteyn öz gecə stendapını nümayiş etdirir. Tamaşaçılar arasında Dovun uşaqlıqdan tanıdığı, indi isə bölgənin hakimi olan Avişay Lazar və Dovun qonşuların təhqirlərindən qaçmaq üçün əl üstündə gəzən qəribə oğlan olduğu illəri xatırlayan bir neçə nəfər var. Tamaşa tədricən ruh yüksəkliyi və isteriya arasında gedib-gələrkən Dovun çıxışı bir növ uşaqlıqda yaşadığı dəhşətin təsvir edildiyi memuara çevrilir: biz həm onun gözəl çiçəyi, Holokostdan sağ çıxmış və daim nəzarətə ehtiyac duyan anası, həm də daim cəzalar verən, iş-güc adamı olan və oğlunun yaradıcılığını anlamayan atası ilə qarşılaşırıq. Nəhayət, Dov uşaq ikən hərbi düşərgədə keçirdiyi bir həftəni xatırlayır – Lazar Dovun həyatında həlledici rol oynayan hadisəyə orada şahid olmuşdu. Dov bununla izaholunmazı izah etməyə çalışır, Lazar isə komikin itirmək və sağ qalmaq barədə əhvalatının öz payına düşən hissəsinə görə narahatdır. Stend-ap aktyorunun kədərli həyatının detalları aktyorun axşam tamaşasınıngedişatında üzə çıxır. Komik aktyorla tamaşaçılar arasındakı oyunun, qarşılıqlı atılan nizələrin fonunda göründüyündən daha dərin əhvalat formalaşmağa başlayır. Bu əhvalat tamaşada iştirak edən bir çoxlarının həyatını dəyişəcək. Əsərdə zövqə görə dəyişən zarafatlar var.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Romanlar & Novellalar"
-        ],
-        "language": [
-            "AZ",
-            "DE"
-        ],
-        "stockCount": 23,
-        "soldCount": 19,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Devid Qrossman",
-                "nəşriyyat": "Yay Kitab",
-                "səhifə": 248,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "name": "Sənə qovuşanadək",
-        "author": "Cudit Maknaut",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b08e2693-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "14.00 ₼",
-        "content": " ' İnsanlar neçə illər idi ki, bu romanı gözləyirdilər. 'Sənə qovuşanadək' romanı sizi duyğular okeanında gəzintiyə çıxaracaq' - Keti Robin, 'Romantic Times'ın redaktoru, 'USA Today' 'New York Times'ın əsərləri ən çox satılan müəlliflərindən biri Cudit Maknaut yenidən Uestmorelandlar ailəsi hekayətinə qayıdaraq, pərəstişkarlarının 'Uitni - mənim sevgim' romanından bəri gözlədiyi hekayəni qələmə aldı. Vəhşi Amerika çöllərindən 1820-ci ilin Londonuna, zərif bal salonlarına aparan möhtəşəm sevgi nağılında gözəl, cəsarətli bir qız romantik macəraya atılır. Zəngin, gənc xanımlar üçün məktəbdə müəllimə işləyən Şeridan Bromley İngiltərədə nişanlısı ilə görüşə gedən tələbələrindən birini - Çariz Lankasteri müşayiət etmək üçün yola çıxır. Gənc həyat yoldaşı başqa bir adama qoşulub qaçandan sonra Şeridan fikirləşir ki, görəsən, bunu Çarizin nişanlısı Lord Börltona necə izah edəcək. Sahildə gözləyən Lanqford qrafı Stefen Uestmoreland ona yaxınlaşan gənc qadının Çariz Lankaster olduğunu düşünür və ona nişanlısı Lord Börltonun bir gecə qabaq öldüyünü, bu qəzada özünün günahkar olduğunu izah edir. Şeridan ağzını açıb danışmaq istəyərkən yuxarıdan başına ağır şey düşdüyündən huşunu itirir. Üç gün sonra Şeridan Bromley gözlərini Stefen Uestmorelandın London iqamətgahında açır. Lakin yaddaşını itirir və kim olduğunu xatırlamır. Hamı onun xanım Lankaster olduğunu zənn edir. Şeridan isə bircə onu bilir ki, bu yaraşıqlı, başgicəlləndirici dərəcədə cazibədar ingilis qrafına vurulub və qarşıda onu gözləyən həyat gözəlliklərlə doludur...",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Romanlar & Novellalar"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 5,
-        "soldCount": 12,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Cudit Maknaut",
-                "nəşriyyat": "Yay Kitab",
-                "səhifə": 508 
-            }
-        ]
-    },
-    {
-        "id": 36,
-        "name": "Martin İden",
-        "author": "CEK LONDON",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/martin-iden-front-book__1_.jpg.webp",
-        "price": "13.90 ₼",
-        "content": " 'Martin İden' Cek Londonun sayca 21-ci romanıdır və avtobioqrafik xarakter daşıyır. Yazıçı romanda şəxsiyyətin mənəvi süqutuna çıraq tutur. Martin İden mənsub olduğu sosial təbəqədən qopub yad cisim kimi burjua dünyasına düşür, Morzlar ailəsi onun mənəvi aləmini tar-mar edir. Martin İden Cek Londonun özüdür və ən dəhşətlisi də budur ki, yazıçı bu romanda öz sonunu dəqiqliklə təsvir edib. 'Martin İden' cəsarətin, gücün, ümidin, inamın, ağlın, sevginin, əməyin romanıdır. Adi bir matros olan Martin 'iynə ilə gor qazaraq' dövrünün ən məşhur yazıçısına çevrilir. Ruf üçün, sevdiyi qadın üçün... Bəs Martinin itirdiyi cənnət və ya qazandığı cəhənnəm nələrdən ibarətdir? Hansı Martin daha xoşbəxt idi? 'Martin İden' in özünəməxsus sehri var və çox az adam bu sehrdən yayına bilir. Romanı oxuyan insanlarda yazıçı olmağa böyük həvəs yaranır. Bir çox məşhur yazıçılara stimul verən məhz bu əsər olub. Kitabı əlinizdən yerə qoymaq o qədər də asan olmayacaq və təsirindən uzun müddət, bəlkə də, bir ömür boyu çıxa bilməyəcəksiniz.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 7,
-        "soldCount": 10,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE", 
-                "müəllif": "CEK LONDON",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 490 
-            }
-        ]
-    },
-    {
-        "id": 37,
-        "name": "Notr-Dam Kilsəsinin Qozbel Zəngçisi",
-        "author": "Viktor Hüqo",
-        "img": "https://static.insales-cdn.com/r/h8HaLC2fBvM/rs:fit:1140:1140:1/q:80/plain/images/products/1/4130/171069474/93c71f160db37b79632a9851b748871a.jpg@webp",
-        "price": "11.99 ₼",
-        "content": "Dünya ədəbiyyatının ən məşhur əsərlərindən olan “Paris-Notr-Dam kilsəsi”romanında çoxdan unudulmuş dövrün tarixi təsviri ilə yanaşı sadə insanın günlük yaşamı və dəyərləri də canlandırılaraq kütləvi tarixi şüur, dünya və insan haqqındakı təsəvvürlərin spesifikası, insanların inam və ümidləri əks olunur. Əsərdə insanın azadfikirliyi və mənəvi müstəqilliyi konsepsiyası Fransadakı cari hadisələrlə əlaqələndirilir. Orta əsrlərin sonlarından bəhs edən romanında Viktor Hüqo gələcəyin keçmişin varisi olduğunu göstərməyə çalışır. Əsərdə dini inamın zəifləməsi, yüzillər boyu toxunulmaz olan ehkamlara qarşı şübhə, yeni təlimlərin bolluğu cəmiyyətin öz inkişafının son hədəfinə – demokratiyaya yaxınlaşmasına sübut kimi göstərilir. Yazıçı təsvir etdiyi dövrün əlamətlərini romanın əsas qəhrəmanlarının – Esmeraldanın, Kvazimodonun və Klod Frollonun xarakterlərində və talelərində təcəssüm etdirmişdir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 4,
-        "soldCount": 9,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Viktor Hüqo",
-                "nəşriyyat": "Əli və Nino Nəşriyyatı və Qanun Nəşriyyatı",
-                "səhifə": 512 
-            }
-        ]
-    },
-    {
-        "id": 38,
-        "name": "Gülən Adam",
-        "author": "Viktor Hüqo",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/e69bdfa6-3ff8-11ec-a4fd-503eaa120fc7_1.jpg.webp",
-        "price": "13.00 ₼",
-        "content": "Böyük fransız şairi və yazıçısı Viktor Hüqonun “Gülən adam” əsəri XVIII əsrin əvvəllərində ingiltərə sahillərində qışın çovğununda tərk edilmiş bir uşağın həyat HEKAYƏSİDİR. “Gülən adam” düşünməyi sevən oxucunun əsəridir, çünki Viktor Hüqonun bu əsəri səfalət və ZƏNGİNLİK, istibdad və AZADLIQ, sevgi və nifrət, işıq və Qaranlıq, ən əsası, Xeyir və Şər kimi əbədi mövzular haqqında danışır. Gülən adam dünya ədəbiyyatının və kinematoqrafiyasının ilhamlandığı bir obrazdır. Bu əsərdə hər şey: həm macəra, həm tarix, həm siyasət, həm faciə, həm acı gerçəklik, həm də şirin romantizm var. Eybəcər Quinplenin, filosof Ursusun simasında bütöv bir əsrin epik mənzərəsi canlandırılır. Obrazların taleyi ilə İngiltərə tarixi bu əsərdə yanaşı addımlayır... Tarixlə insan taleyi bir-birinə dolaşır, bəlkə, tarix insan taleyini yazır, bəlkə də, insan taleləri bu tarixi yazır.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 6,
-        "soldCount": 7,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Viktor Hüqo",
-                "nəşriyyat": "Parlaq İmzalar",
-                "səhifə": 720  
-            }
-        ]
-    },
-    {
-        "id": 39,
-        "name": "93-Cü Il",
-        "author": "Viktor Hüqo",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/37f599a6-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "3.00 ₼",
-        "content": "Dünya ədəbiyyatının görkəmli nümayəndələrindən biri Viktor Hüqo 'Səfillər', 'Gülən adam', 'Notr-Dam kilsəsinin qozbeli' kimi klassikləşmiş əsərlərin müəllifidir. Fransanın siyasi həyatında fəal iştirak edən Hüqo vətənində respublika ideyasının alovlu tərəfdarlarından birinə çevrilmişdi. Çünki bu ideya ölkənin xoşbəxt gələcəyini insanların azad və bərabərhüquqlu yaşamasında görürdü. Hüqo əsərlərində respublikaçılıq uğrunda mübarizəni parlaq şəkildə təsvir edirdi. Onun '93-cü il' romanı da bu qəbildəndir. Əsərin qəhrəmanlarından biri – Lantenak köhnə rejimin (monarxiyanın), qardaşı nəvəsi Simurden isə respublikanın tərəfdarıdır. Roman onların timsalında bu iki ideya arasındakı amansız mübarizədən bəhs edir.",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "FR"
-        ],
-        "stockCount": 8,
-        "soldCount": 5,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Viktor Hüqo",
-                "nəşriyyat": "Altun",
-                "səhifə": 128  
-            }
-        ]
-    },
-    {
-        "id": 40,
-        "name": "Bilinmeyen Bir Kadının Mektubu - Modern Klasikler Dizisi",
-        "author": "STEFAN ZWEIG",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/42779234-a84f-11ed-a515-503eaa120fc7_1.jpg.webp",
-        "price": "5.90 ₼",
-        "content": "Bilinmeyen Bir Kadının Mektubu ; Stefan Zweig’ın 1922 tarihli bu novellası, saplantılı aşk üzerine yazılmış en çarpıcı metinlerden biridir. Hayatı boyunca kendisinin farkında bile olmayan bir adamı umutsuzca sevmiş bir kadının yürek parçalayan aşk itirafıdır. Aşkının nesnesi olan kişi ise ömrü boyunca bir kez olsun söz ve eylemlerinin başkalarının hayatları üzerindeki etkisini düşünmemiştir. Zweig bu yapıtında insanların iç âlemlerine girmek ve onları gerçekten anlamak için toplum önündeki duruş ve davranışlarından yola çıkılamayacağına da dikkat çeker. Bu son derece tahripkâr karşılıksız aşkın hikâyesi, 1948 yılında Alman yönetmen Max Ophüls’ün imzasını taşıyan unutulmaz bir Hollywood klasiğine de ilham vermiştir.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "ES",
-            "EN"
-        ],
-        "stockCount": 10,
-        "soldCount": 20,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "STEFAN ZWEIG",
-                "nəşriyyat": "İş Bankası Kültür Yayınları",
-                "səhifə": 68
-            }
-        ]
-    },
-    {
-        "id": 41,
-        "name": "Kürk Mantolu Madonna (2019)",
-        "author": "SABAHATTIN ALI",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/4a88e931-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "5.90 ₼",
-        "content": "Her gün, daima öğleden sonra oraya gidiyor, koridorlardaki resimlere bakıyormuş gibi ağır ağır, fakat büyük bir sabırzıszılka asıl hedefine varmak isteyen adımlarımı zorla zapt ederek geziniyor; rastgele gözüme çarpmış gibi önünde durduğum Kürk Mantolu Madonnayı seyre dalıyor, ta kapılar kapanıncaya kadar orada bekliyordum. Kimi tutkular rehberimiz olur yaşam boyunca. Kollarıyla bizi sarar. Sorgulamaktan peşlerinden gideriz ve hiç pişman olmayacağımızı biliriz. Yapıtlarında insanların görünmeyen yüzlerini ortaya çıkaran Sabahattin Ali, bu kitabında güçlü bir tutkunun resimini çiziyor. Düzenin sildiği kişiliklere, yaşamın uçuculuğuna ve aşkın olanaksızlığına dair, yanıtlanması zor sorular soruyor.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Klassiklər"
-        ],
-        "language": [
-            "AZ",
-            "ES",
-            "EN"
-        ],
-        "stockCount": 9,
-        "soldCount": 15,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE", 
-                "müəllif": "SABAHATTIN ALI",
-                "nəşriyyat": "Yapı Kredi Yayınları",
-                "səhifə": "163" 
-            }
-        ]
-    },
-    {
-        "id": 42,
-        "name": "Məqsədlisən?",
-        "author": "Nadir Adilman",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/ec9debb9-5053-11eb-a4d2-503eaa128442_2.jpg.webp",
-        "price": "9.50 ₼",
-        "content": "Kitab müxtəlif yollarla inkişaf etmək istəyən, məqsədsiz və məqsədli baxışlara malik “yaxşı oğlan” və “ağıllı qız” obrazları üzərində qurulub. Məqsədli və məqsədsiz işgüzar inkişaf baxışlarına malik, eyni yaşda olan, eyni məktəbdə oxumuş, hətta universitetdə eyni ixtisasa qəbul olan iki güclü tələbə gəncin həyat tərzi qarşılıqlı müqayisə edilir və nəticə çıxarmaq oxucuların ixtiyarına verilir. “Yaxşı oğlan” yaxşı oğlan və yaxşı qızları, “ağıllı qız” isə ağıllı qız və ağıllı oğlanları təmsil edir. Amma hansı kateqoriya nümayəndəsinin işgüzar inkişaf üçün önəmli obraz olduğunu oxucu özü müəyyənləşdirməlidir. Gənclərin işgüzar inkişafına kömək edəcək bu kitab çox sadə dildə yazılıb. Kitabda işgüzar inkişafın müxtəlif mərhələlərində olan və müəllifin də şəxsən tanıdığı şəxslərin həyatındakı real hadisələrə də yer verilib.",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Şəxsi inkişaf"
-        ],
-        "language": [
-            "AZ",
-            "ES"
-        ],
-        "stockCount": 14,
-        "soldCount": 11,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Nadir Adilman",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 188,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 43,
-        "name": "Ustad",
-        "author": "Raqif Raufoğlu",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5ea8cb7f-f3ed-11ee-a54e-503eaa120fc7_1.jpg.webp",
-        "price": "8.00 ₼",
-        "content": "Raqif Raufoğlunun “Ustad” romanı Azərbaycan tarixinə fərqli yanaşma əsasında qələmə alınıb. Milli və irfani kimlik məsələsinin ön planda olduğu və ayrıayrı tərəflərinin incəliyinə qədər araşdırıldığı bu əsərdə oxucuya müasir dillə bir çox alternativlər təqdim edilir. “Ustad” janr və üslub baxımından alışmadığımız tərzdə, fərqli təhkiyə üslubunda yazılıb. Reallıqla mistikanın sərhədində baş verən hadisələr oxucunu dilemma qarşısında qoyub çaşdırsa da, əsərdə bir çox suallara maraqlı və ağlabatan cavablar tapacaqsınız",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Romanlar & Novellalar"
-        ],
-        "language": [
-            "AZ",
-            "ES"
-        ],
-        "stockCount": 17,
-        "soldCount": 13,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Raqif Raufoğlu",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 120
-            }
-        ]
-    },
-    {
-        "id": 44,
-        "name": "Yekaterina ve Potyomkin",
-        "author": "SAYMON SEBAQ MONTEFIORE",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/6286d658-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "19.60 ₼",
-        "content": "Bu, tarixin ən uğurlu siyasi partnyorluğu idi - o, yaradıcı və uzaqgörən olduğu qədər də ehtiraslı və alovlu idi. Böyük Yekaterina ehtirası və imperiya iddiaları ilə ad çıxarmış bir qadın idi. Son dərəcə parlaq və həddən artıq istedadlı bir insan olan knyaz Potyomkin isə onun həyatının məhəbbəti və idarəetməni taxt-tacda onunla birgə həyata keçirən insan idi. Onlar birlikdə Ukrayna və Krımı tutdular və dövrümüzdəki Rusiya imperiyasının sərhədlərini müəyyən etdilər. Onların münasibətləri o qədər coşğun idi ki, danışıb hakimiyyəti bölüşməyə razılaşdılar və Potyomkin öz bacısı qızları, Yekaterina isə gənc sevgililəri ilə sərbəst şəkildə sevgi münasibətləri yaşamağa başladı. Lakin bu 'əkiz ruhlar' ın bir-birinə olan sevgisi heç vaxt bitmədi. Saymon Sebaq Montefiorenin onların bir-birlərinə yazdığı sevgi məktublarından çıxış edərək və yeni geniş tədqiqatlar aparmaqla qələmə aldığı heyrətamiz və böyük rəğbətlə qarşılanan bu bioqrafik əsəri imperiyanın bu iki partnyorunu dövrlərinin azmanları kimi layiq olduqları yerə qoyur.",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Bioqrafiya, avtobioqrafiya & Xatirə"
-        ],
-        "language": [
-            "AZ",
-            "ES"
-        ],
-        "stockCount": 12,
-        "soldCount": 9,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "SAYMON SEBAQ MONTEFIORE",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 884   
-            }
-        ]
-    },
-    {
-        "id": 45,
-        "name": "Tarixi şəxsiyyətin tarixi. Ə. Topçubaşov",
-        "author": "Ə. TOPÇUBAŞOV",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/3dfe5a03-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "17.00 ₼",
-        "content": "Bakı : Azərbaycan Diplomatik Akademiyası, 2013",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Bioqrafiya, avtobioqrafiya & Xatirə"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 25,
-        "soldCount": 35,
-        "view": 0,
-        "feature": [
-            {
-                "cild":"Мягкая обложка",
-                "dil": "AZE",
-                "müəllif": "Ə. TOPÇUBAŞOV",
-                "nəşriyyat": "Ada",
-                "səhifə": 587
-            }
-        ]
-    },
-    {
-        "id": 46,
-        "name": "Poetik diaqnoz",
-        "author": "Elçin Rey",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/0d19f329-7f11-11ef-a555-503eaa120fc7_1.jpg.webp",
-        "price": "10.50 ₼",
-        "content": "Tibbin axtardığı sağlamlıq ədəbiyyatın tapdığı sevgidədir. Poetik diaqnoz - içi dərmanlarla dolu bir qutudur. Bilirəm, qutudan daha çox kitaba, dərmanlardan daha çox şeirlərə bənzəyir. Bu, poeziya və tibbin birgə kəşf etdiyi yeni preparatdır. Gözlər və qulaqlar vasitəsilə ruha asanlıqla qəbul olunur. Ən dərin yaralarınızı qucaqlamaq istəyən dərmanların, demək olar ki, yan təsirləri yoxdur. Nadir hallarda bir-iki damla göz yaşına səbəb ola bilər. Ruhunuz hüceyrələrdən kəlmələrə uzanan ən qədim yollara bələd olandan sonra siz başqa yollarda daha sağlam irəliləyib, özünüzü daha güvənli hiss edəcəksiniz.",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Poemalar"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 22,
-        "soldCount": 30,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "SAYMON SEBAQ MONTEFIORE",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 168,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 47,
-        "name": "Metanoya",
-        "author": "Xülya Sabirli",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/d8d3c811-7f10-11ef-a555-503eaa120fc7_1.jpg.webp",
-        "price": "7.90 ₼",
-        "content": "Saxta xoşbəxtlik maskasını çıxarıb atmaq, yoxsa illərdir oynadığın rola sadiq qalmaq? Fərəh Əlisoy kənardan mükəmməl görünən bir həyat yaşayır. Lakin günlərin bir günü evinin zirzəmisində məhkum kimi saxlanılan Duyğu ilə qarşılaşması, beləliklə də, həyat yoldaşının xəyanətindən xəbər tutması və onun gerçək xislətini görməsi gənc qadının bütün həyatını yenidən sorğulamasına gətirib çıxarır. İndi o, əzablarla dolu olan keçmişinin sirlərini aşkara çıxarmalı və özünə etiraf etməkdən boyun qaçırdığı kabus kimi həqiqətlə üzləşməlidir. Dərin daxili böhran keçirən Fərəh bir-birinin ardınca ağlasığmaz hadisələrlə qarşılaşır və bir müddət sonra nəyin doğru, nəyin yalan olduğunu ayırd etməkdə çətinlik çəkir. İndi onun nicatı yalnız öz əlindədir. Fərəh simasına həkk etdiyi saxta xoşbəxtlik maskasını çıxarıb atacaq, yoxsa illərdir oynadığı rolu oynamaqda davam edəcək?  ",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Romanlar & Novellalar"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 28,
-        "soldCount": 25,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "Xülya Sabirli",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 272,
-                "yaş": 16
-            }
-        ]
-    },
-    {
-        "id": 48,
-        "name": "Ayvinin inqilabı",
-        "author": "Emi Encel",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/9642b3fd-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "9.80 ₼",
-        "content": "Hasarın o tayında... Hələ də sağam. Əgər buna sağ demək mümkündürsə... Adım Ayvi Uestfalldır. On altı yaşlı satqınam. Üç ay əvvəl prezidentin oğlu Bişop Lattaymerə məcburən ərə verilmişəm - savaşı uduzmuş tərəfin bütün qızları evlilik adı altında qaliblərin oğullarına satılır. Amma mənimlə bağlı vəziyyət fərqli idi. Çünki xüsusi bir missiyam vardı: Bişopu öldürmək. Bunun əvəzində mən ona aşiq oldum. İndi isə mən qovulmuş, sivilizasiyadan kənar torpaqların vəhşətinə atılmışam. İntəhası, ümid burada da ölmür. Hasarın bu tayında da həyat var. Amma mən öz keçmişimi keçmişdə qoya bilmirəm. Çünki əməllərim Uestfall hadisələrinin gedişatında elə bir xəyanət zənciri yaradıb ki, bu, bizim hamımızın, ələlxüsus da Bişopun taleyini dəyişəcək. Beləliklə, bu dəfə yalnız sağ qalmaq yetərli deyil... 'Yaxşı işlənmiş obrazlar, mürəkkəb dünya quruluşu, o cümlədən dolaşıq münasibətlər, siyasi azğınlıq və xəyanət oxucularda bu seriyanın ikinci kitabına tələbat yaradır' - SLJ",
-        "category": "Bədii ədəbiyyat",
-        "subcategory": [
-            "Elmi-fantastika & Fantaziya"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN"
-        ],
-        "stockCount": 6,
-        "soldCount": 10,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Emi Encel",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 224,
-                "yaş": 16  
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "name": "Makedoniyali İskəndər və Atropat",
-        "author": "HƏSƏN HƏSƏNOV",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/daa693fe-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "22.00 ₼",
-        "content": "Həsən Həsənovun təqdim olunan monoqrafiyası Azərbaycanın qədim tarixinin mühüm məsələlərini əhatə edən kompleks fənlərarası tədqiqata ilk cəhddir. Monoqrafiyada Azərbaycan adlı ölkənin mənşəyi və onun hakim sülalələri kimi problemlər öz əksini tapıb. Əsərdə tutarlı arqumentlərə əsaslanan və Azərbaycan adlı ölkənin Aşşur imperiyasının süqutundan dərhal sonra yarandığını təsdiqləməyə imkan verən konsepsiya təqdim olunur. Əsərin adından tarixin cəmi 10 ilindən söz açıldığı görünsə də, əslində kitab həmin dövrdən əvvəlki və sonrakı bir neçə əsrin hadisələrini əhatə edir. Antik dövr Azərbaycanının görkəmli dövlət xadimi Atropatın obrazı və onun Makedoniyalı İsgəndərlə əməkdaşlığı monoqrafiyada müfəssəl işıqlandırılır. Müstəqil Atropatena dövlətinin mərhələli yüksəliş prosesi elmdə ilk dəfə olaraq ətraflı təsvir edilir. Qədim Midiya və Atropatenanın ərazi hüdudları və onların etnik tərkibinə dair problemlərin əsərdə geniş işıqlandırılması faktını da xüsusi qeyd etmək lazımdır. Kitab həm mütəxəssislər, həm də geniş oxucu kütləsi üçün nəzərdə tutulub.",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Tarix, hüquq & Siyasi"
-        ],
-        "language": [
-            "AZ"
-        ],
-        "stockCount": 3,
-        "soldCount": 5,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "HƏSƏN HƏSƏNOV",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 300,
-                "yaş": 16 
-            }
-        ]
-    },
-    {
-        "id": 50,
-        "name": "Azərbaycanın bitki aləmi",
-        "author": "AYDIN ƏSGƏROV",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5c806110-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
-        "price": "30.80 ₼",
-        "content": "Kitab bütövlükdə Azərbaycanın zəngin və rəngarəng bitki aləminə həsr olunmuş, Azərbaycan dilində yazılmış ilk fundamental əsər hesab edilə bilər. Kitaba müəllifin 1970-ci ildən indiyədək apardığı tədqiqatlar nəticəsində müəyyən etdiyi 250 cinsə aid 900-dən çox yeni takson daxil edilmişdir. Burada bütövlükdə 159 fəsilə və 1.117 cinsə aid 4.961 ali bitki növü, o cümlədən respublikamızın yabanı florasında yayılması müəyyən edilmiş 4.557 növ haqqında müfəssəl məlumat verilir. Kitabda Azərbaycanda təbii bitən 1.500 növdən çox qida əhəmiyyətli, eləcə də dərman, efir yaglı, vitaminli, yabanı tərəvəz, boya və başqa sahələrdə istifadə oluna bilən bitkilərin arealı, faydalı xüsusiyyətləri və istifadə perspektivləri barədə biliklər, bu zəngin sərvətdən səmərəli istifadə yolları verilmişdir. Əsər Azərbaycanın bitki aləmi, xüsusən onun yabanı biomüxtəlifliyi sahəsində çalışan mütəxəsislər, botaniklər, ekoloqlar, eləcə də ali məktəblərin biologiya, ekologiya fakültələrinin tələbələri və Azərbaycan təbiəti ilə maraqlananlar üçün dəyərli vəsaitdir.",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Akademik"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "Aydın Əsgərov",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 444 
-            }
-        ]
-    },
-    {
-        "id": 51,
-        "name": "Stoiklərin həyatı",
-        "author": "Rayan Holidey",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a235d6a1-7f10-11ef-a555-503eaa120fc7_1.jpg.webp",
-        "price": "11.90 ₼",
-        "content": "Bu, sadəcə, bir tarix kitabı deyil. Bu kitab Epiktetdən tutmuş Mark Avreliyə – quldan imperatora qədər hər kəsə fəlsəfəni öz həyatında tətbiq etməkdə kömək edəcək şəkildə tərtib olunub. Müəlliflər əsrlər boyunca Seneka, Kato, Siseron kimi şəxsləri birləşdirən əsas dəyər və ideyaların üzərinə işıq salır. Stoiklərin həyatı əsəri əbədi stoik fəzilətlərlə – mətanət, təmkin, ədalət və müdrikliklə yaşayan insanların maraqlı həyat yollarını təqdim edir, qədim filosofların xoşbəxtlik, uğur, mətinlik və fəzilət barədə öyrətdiklərini çatdırır. Məşhur stoiklərin asan mənimsənilən mini-bioqrafiyalarından ibarət olan bu kitab stoisizmi sevən və ona uyğun yaşayan insanlara bu fəlsəfənin mənasını izah edir, onların mübarizəsindən və uğurlarından çıxarılan ibrətamiz dərsləri önə çəkir. Stoisizm Zenon adlı müflis olmuş tacirin Afinada, Stoa Poikile adlı yerdə ilk məktəbi yaratmasından 2300 il sonra idmançılardan tutmuş siyasətçilərə qədər böyüklük axtaran bütün insanlar arasında yeni auditoriya tapıb. Təəccüblü deyil ki, fəlsəfə və onun özünənəzarət, fəzilət və nəzarət edə bilmədiyimiz məsələlərə laqeydlik prinsipləri Roma imperiyasının xaosunda olduğu qədər bu gün də aktualdır. Dəyərli baxış və hekayələrin xəzinəsi olan bu kitab keçmişdə ilham qaynağı axtaranların dönə-dönə müraciət edəcəyi bir mənbədir.",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Şəxsi inkişaf"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Rayan Holidey",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 428,
-                "yaş": 16  
-            }
-        ]
-    },
-    {
-        "id": 52,
-        "name": "Paralel dünyada. Birinci hissə - Ağ, çəhrayı və narıncı",
-        "author": "Aysel Şıxlı",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b889cae5-bf6a-11ef-a56b-503eaa120fc7_1.jpg.webp",
-        "price": "11.90 ₼",
-        "content": "'FENTEZİ JANRINDA YAZILMIŞ TETRALOGİYA Yer planetində artıq həyat yox idi. Ana təbiətin məhvinə gətirib çıxarmış insan əməlləri sivilizasiyaya son qoymuşdu. Uzaq gələcəkdə paralel dünyada yenidən yaranmış Həyat insanların keçmişdəki səhvlərini təkrar etməməsi üçün onların mənfi duyğularını qəlblərindən çıxarıb möhürləmiş, hər birini fərqli istiqamətlərə yönəldərək möhürləri qorumaq üçün krallıqlar yaratmışdı. Sıx meşələrin ayırdığı bu əzəmətli krallıqlar bir-birindən kəskin fərqlənirdi: adaların üstündə yerləşən Lumiya krallığı, güclü küləklərin cövlan etdiyi Eley krallığı, uçurumların üstündə ucalan Eskada krallığı, yaşıl ağacların arasında salınmış Milaros – elfl ər krallığı, soyuq Akara krallığı və odlar diyarı Kanar krallığı... Möhürlərdən birinin oğurlanması bütün krallıqların taleyini dəyişir. Axtarışlara başlamaq üçün Yuxarı Eleydən olan Kay adlı əsgər seçilir. Bu yolda onun ən yaxın dostu və yol yoldaşı küləkdən yaranmış məsləhətçi Reyn olur... Onları qarşıda nələr gözləyir? Lumiyanın gözəl şahzadəsi Elyanoraya olan hissləri Kaya həqiqətləri açmaqda mane olmayacaq ki?!'",
-        "category": "Qeyri-bədii ədəbiyyat",
-        "subcategory": [
-            "Elmi-fantastika & Fantaziya"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "Aysel Şıxlinskaya",
-                "nəşriyyat": "Teas Press",
-                "səhifə": 228
-            }
-        ]
-    },
-    {
-        "id": 53,
-        "name": "70 kq",
-        "author": "Viam Əhməd",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/8f7da344-7a63-11ef-a554-503eaa120fc7_1.jpg.webp",
-        "price": "6.90 ₼",
-        "content": "'Sürətli çatdırılma şirkəti yükünüzü etibarlı şəkildə ünvanına çatdıracaq. Çəkidən asılı olmayaraq, ən ucuz qiymətə çatdırırıq. Kiçik qeyd: maksimum çəki 70 kq Camalla Məhbub problemlə üzləşiblər. Camal bu problemin ideal həllini tapsa da, reklamın sonundakı kiçik qeyd gözündən yayınıb. Bu qeydin ucbatından Camalın başına macəralar gəlir, nəticədə böyük həyat təcrübəsi qazanır... Bəs, görəsən, Məhbub haradadır?'",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Hekayələr & Oçerklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Viam Əhməd",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 48 
-            }
-        ]
-    },
-    {
-        "id": 54,
-        "name": "Alma ağacı",
-        "author": "Volkan Yavəroğlu",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/dba31894-e494-11ef-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "4.90 ₼",
-        "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Kukuli, Tinki və Minki səhər durub çölə çıxanda gördüklərinə inana bilmədilər. Səhərə qədər davam edən qasırğa aləmi yerlə yeksan etmiş, ən çox sevdikləri alma ağacının gövdəsi qırılıb yana əyilmişdi. Təbiətsevər dostlarımız alma ağacını əvvəlki vəziyyətinə qaytarmaq üçün müxtəlif yollara əl atdılar.",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Hekayələr & Oçerklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Volkan Yavəroğlu",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 24,
-                "yaş": "Universal"  
-            }
-        ]
-    },
-    {
-        "id": 55,
-        "name": "Bir şəhər, bir liman",
-        "author": "Reyhan Yusifqızı",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a726e106-da36-11ef-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "10.90 ₼",
-        "content": "Xəzərin qoynuna sığınmış BİR ŞƏHƏR, BİR LİMAN... Flaminqoların qorunduğu, ceyranların sığınacaq tapdığı liman... Bu liman Böyük İpək Yolunun dənizdən keçən marşrutlarından birinin üstündə yerləşir. Tarixi keçmişimizi bu günümüzlə, bu günümüzü isə gələcəklə birləşdirir. Azərbaycanın “dəniz qapısı” sayılan Bakı Beynəlxalq Dəniz Ticarət Limanı dünyada “Yaşıl Liman” və “Ekoloji Təmiz” liman olması ilə seçilir. İllər boyu limançıların: işçi, sürücü, krançı, tərsanəçi, dispetçerlərin fədakar əməyi sayəsində var olan bu liman gənclik şəhəridir, gənclərin şəhəridir. Gələcəkdə Bakı limanı müasir texnologiyalardan istifadə etməyi bacaran bilikli, zəkalı, qabiliyyətli gənclərin sayəsində daha da şöhrətlənəcək, 'XXI əsrin limanı' olacaq.",
-        "category": "Qeyri-bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Səyahət & Məkanlar"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "bərk",
-                "dil": "AZE",
-                "müəllif": "Reyhan Yusifqızı",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 36,
-                "yaş": "Universal" 
-            }
-        ]
-    },
-    {
-        "id": 55,
-        "name": "Dadlı günəş",
-        "author": "Ramiz Rövşən",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/aa6e7499-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "11.90 ₼",
-        "content": "....Sağ ol, günəş, çox sağ ol! Hər gün bizə qonaq ol! Niyə hamı deyir: “Sən yaman odlu günəşsən”. Yox, sən odlu deyilsən, sən lap dadlı günəşsən!..",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Poemalar"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Ramiz Rövşən",
-                "nəşriyyat": "3 Alma",
-                "səhifə": 64,
-                "yaş": "Universal"  
-            }
-        ]
-    },
-    {
-        "id": 56,
-        "name": "İtmiş kitab",
-        "author": "Erge Özcan",
-        "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/54753d1d-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
-        "price": "4.90 ₼",
-        "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Tinki dostları ilə kinoteatra gedəcəyi üçün çox həyəcanlı idi. Əvvəlcə Missivadan götürdüyü kitabı qaytarmalı idi. Lakin kitabı qoyduğu yerdə tapa bilmirdi. Elə macəra da bundan sonra başlayır. Siz də Tinki, Minki və Kukulinin bu macərasına qoşulmaq istərdinizmi?",
-        "category": "Bədii uşaq ədəbiyyatı",
-        "subcategory": [
-            "Hekayələr & Oçerklər"
-        ],
-        "language": [
-            "AZ",
-            "RU",
-            "EN",
-            "FR",
-            "DE"
-        ],
-        "stockCount": 2,
-        "soldCount": 3,
-        "view": 0,
-        "feature": [
-            {
-                "cild": "Yumşaq",
-                "dil": "AZE",
-                "müəllif": "Erge Özcan",
-                "nəşriyyat":"3 Alma",
-                "səhifə": 24,
-                "yaş": "Universal"
-            }
-        ]
-    }
+        [
+  {
+    "id": 1,
+    "name": "Seçilmiş Əsərləri",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/7bb4b02e-faef-11ed-a519-503eaa120fc7_1.jpg.webp",
+    "price": "9 ₼",
+    "content": "Bu kitabda dahi rus yazıçısı Lev Tolstoyun həyat və yaradıcılığı ilə bağlı məlumat verilib, ilk dəfə olaraq ölümündən sonra çap edilən bəzi əsərləri yer alıb. Lev Tolstoy Hərb və sülh, Anna Karenina kimi əsərləri ilə dünya səviyyəsində şöhrət qazansa da, özü İblis və Sergi ata əsərlərinə daha çox üstünlük verib.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Bioqrafiya, avtobioqrafiya & Xatirə"
+    ],
+    "language": [
+      "AZ",
+      "TUR",
+      "EN",
+      "RU"
+    ],
+    "stockCount": 4,
+    "soldCount": 2,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Lev Tolstoy",
+        "Nəşriyyat": "Qədim Qala",
+        "səhifə": 200
+      }
+    
+  },
+  {
+    "id": 2,
+    "name": "Anna Karenina",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "24.90 ₼",
+    "content": "Lev Tolstoyun şah əsərlərindən olan “Anna Karenina” ailə dramı, sevgi, cəmiyyət və mənəvi dəyərlər kimi mürəkkəb mövzuları əhatə edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN"
+    ],
+    "stockCount": 8,
+    "soldCount": 15,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "TUR",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "İş Bankası Kültür Yayınları",
+        "səhifə": 62
+      }
+    
+  },
+  {
+    "id": 3,
+    "name": "Balaca Şahzadə",
+    "author": "Antuan Dö Sent Ekzüperi",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/fc7e8998-284c-11ed-a50a-503eaa120fc7_1.jpg.webp",
+    "price": "3.00 ₼",
+    "content": "Antuan de Sent-Ekzüperinin həm uşaqlar, həm də böyüklər üçün yazdığı bu fəlsəfi nağıl dostluq, sevgi, həyatın mənası kimi dərin mövzulara toxunur.",
+    "category": "Uşaq ədəbiyyatı",
+    "subcategory": [
+      "Nağıllar"
+    ],
+    "language": [
+      "AZ",
+      "TR",
+      "EN",
+      "RU"
+    ],
+    "stockCount": 22,
+    "soldCount": 45,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Мягкая обложка",
+        "dil": "AZE",
+        "müəllif": "Antuan Dö Sent Ekzüperi",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 154
+      }
+    
+  },
+  {
+    "id": 4,
+    "name": "Uçan Sinif",
+    "author": "Erix Kestner",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/664c21c2-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "13.90 ₼",
+    "content": "Erix Kestnerin yazdığı bu macəra dolu uşaq romanı internat məktəbində oxuyan bir qrup oğlanın dostluqlarını, çətinlikləri və əyləncəli anlarını təsvir edir.",
+    "category": "Uşaq ədəbiyyatı",
+    "subcategory": [
+      "Macəra"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 18,
+    "soldCount": 30,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Мягкая обложка",
+        "dil": "TUR",
+        "müəllif": "ERICH KASTNER",
+        "nəşriyyat": "Can Yayınları",
+        "səhifə": 191
+      }
+    
+  },
+  {
+    "id": 5,
+    "name": "Səfillər",
+    "author": "Viktor Hüqo",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5e1c96dc-0686-11ed-a509-503eaa120fc7_1.jpg.webp",
+    "price": "14.90 ₼",
+    "content": "Viktor Hüqonun monumental əsəri olan “Səfillər” XIX əsrin Fransa cəmiyyətinin həyatını, insan talelərini, ədalətsizliklə mübarizəni epik bir şəkildə təsvir edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 5,
+    "soldCount": 12,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "Viktor Hüqo",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 768,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 6,
+    "name": "Don Kixot",
+    "author": "Migel de Servantes",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/80f5d4e7-bf40-11ed-a519-503eaa120fc7_1.jpg.webp",
+    "price": "6.50 ₼",
+    "content": "Migel de Servantesin şah əsəri olan “Don Kixot” cəngavər romanlarının parodiyası olmaqla yanaşı, insan xarakterinin dərinliklərinə də nüfuz edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassik ədəbiyyat",
+      "Satira"
+    ],
+    "language": [
+      "AZ",
+      "ES",
+      "EN"
+    ],
+    "stockCount": 10,
+    "soldCount": 20,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE/ENG",
+        "müəllif": "Migel De Servantes",
+        "nəşriyyat": "Logos",
+        "səhifə": 120
+      }
+    
+  },
+  {
+    "id": 7,
+    "name": "Şəhriyar",
+    "author": "Məhəmməd Hüseyn Şəhriyar",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/29c2ae49-13bc-11ed-a509-503eaa120fc7_1.jpg.webp",
+    "price": "8.50 ₼",
+    "content": "Seyid Məhəmmədhüseyn Behcət Təbrizi (Məhəmmədhüseyn Şəhriyar) (1906-1988) Təbriz şəhərinin Bağmeşə bölgəsində, hüquqşünas Hacı Mirağa Xoşginabinin ailəsində dün 'Yay'a gəlmişdir. Şəhriyar Təbrizdə orta 'Təhsil' almış, Tehran Universitetinin tibb fakültəsini bitirmişdir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Poeziya",
+      "Satira"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 25,
+    "soldCount": 35,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Мягкая обложка",
+        "dil": "AZE",
+        "müəllif": "Məhəmməd Hüseyn Şəhriyar",
+        "nəşriyyat": "Kitab Klubu",
+        "səhifə": 440
+      }
+    
+  },
+  {
+    "id": 8,
+    "name": "Yevgeni Onegin",
+    "author": "Aleksandr Puşkin",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5adec366-6f96-11ec-a4fd-503eaa120fc7_1.jpg.webp",
+    "price": "7.00 ₼",
+    "content": "Aleksandr Puşkinin məşhur mənzum romanı “Yevgeni Onegin” XIX əsrin rus cəmiyyətinin həyatını, sevgi və dostluq münasibətlərini təsvir edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Poeziya",
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 12,
+    "soldCount": 18,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE/ENG",
+        "müəllif": "Aleksandr Sergeyeviç Puşkin",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 216
+      }
+    
+  },
+  {
+    "id": 9,
+    "name": "Kiçik Qara Balıq",
+    "author": "Səməd Behrəngi",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/bf75c719-20fa-11f0-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "3.50 ₼",
+    "content": "Səməd Behrənginin yazdığı bu məşhur uşaq hekayəsi öz kiçik dünyasından çıxıb böyük okeanı kəşf etmək istəyən cəsur bir balığın macəralarını nəql edir.",
+    "category": "Uşaq ədəbiyyatı",
+    "subcategory": [
+      "Hekayələr"
+    ],
+    "language": [
+      "AZ",
+      "TR"
+    ],
+    "stockCount": 30,
+    "soldCount": 50,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "müəllif": "SƏMƏD BEHRƏNGI",
+        "nəşriyyat": "Mücrü Nəşriyyatı",
+        "səhifə": 28
+      }
+    
+  },
+  {
+    "id": 10,
+    "name": "Siz möhtəşəmsiniz",
+    "author": "Metyu Syed",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/26515e1e-7dc8-11ec-a4fd-503eaa120fc7_1.jpg.webp",
+    "price": "6.90 ₼",
+    "content": "ƏGƏR İSTƏNİLƏN SAHƏDƏ MÖHTƏŞƏM OLSANIZ, NƏ BAŞ VERƏR? Bu sizin təsəvvür etdiyiniz kimi əlçatmaz iş deyil. Əgər siz aşağıdakı kimi düşünürsünüzsə... • Riyaziyyatla məşğul olmaq üçün xüsusi növ beyin lazımdır; • İdmanda ya istedadlısınız, ya da ki yox; • Bədənimdə musiqini duyan sümük yoxdur ...o halda bilin ki, bu kitabı sizin üçün yazmışam. Sizin irəli getməyinizə mane olan inanclarınıza meydan oxumaq üçün yazmışam. Doğru düşüncəniz sizə istənilən sahədə uğur qazanmağa, xəyallarınızı gerçəkləşdirməyə kömək edə bilər. MƏN BİLİRƏM Kİ, bunu bacararsınız. Necə? Məsələn, mən özüm anadan idmançı doğulmasam da, ikiqat olimpiya çempionuyam. Bəs heç bilirsiniz, sizin bu işi bacaracağınızı haradan bilirəm? ÇÜNKİ SİZ MÖHTƏŞƏMSİNİZ.",
+    "category": "Elmi-kütləvi ədəbiyyat",
+    "subcategory": [
+      "Kitab",
+      "Qeyri-bədii uşaq ədəbiyyatı",
+      "Şəxsi İnkişaf"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 15,
+    "soldCount": 25,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Metyu Syed",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 160
+      }
+    
+  },
+  {
+    "id": 11,
+    "name": "Diriliş",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/32e82a63-85c4-11ed-a513-503eaa120fc7_1.jpg.webp",
+    "price": "12.90 ₼",
+    "content": "L. Tolstoyun mənəvi axtarışlarını əks etdirən bu roman insan təbiətinin dərinliklərinə nüfuz edir...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 7,
+    "soldCount": 5,
+    "view": 0,
+    "feature": 
+      {
+        "dil": "TUR",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "İş Bankası Kültür Yayınları",
+        "səhifə": 637
+      }
+    
+  },
+  {
+    "id": 12,
+    "name": "Hərb və Sülh (I cild)",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/4a0bd9de-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "15.40 ₼",
+    "content": "Rus cəmiyyətinin Napoleon müharibələri dövründəki həyatını təsvir edən monumental əsər...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman",
+      "Tarixi roman"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 3,
+    "soldCount": 8,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 1024
+      }
+    
+  },
+  {
+    "id": 13,
+    "name": "Hərb və Sülh (II cild)",
+    "author": "Lev Tolstoy",
+    "img": "https://kitabevim.az/wp-content/uploads/2021/05/1f82414ea443ec87cc227581eca18169.jpg",
+    "price": "15 ₼",
+    "content": "Dünya ədəbiyyatında özünəməxsus yeri olan məşhur rus yazıçısı L.N.Tolstoyun 1804-1807 və 1812-1813-cü illər rus-fransız müharibələrinə həsr olunmuş “Hərb və sülh” romanında ədibin bədii dühasının xəlqiliyi tam vüsətlə öz əksini tapıb. Romanın ikinci hissəsi də əvvəlki hissədə olduğu kimi gərgin hadisələr, münaqişələr və sevgi epizodları ilə zəngindir. Vətənpərvərlik və xəyanət, ziddiyyətli insan xarakterləri, həyatın bədii boyalarla və rəngarəng təsvirləri bir daha böyük Tolstoy irsinə məxsus keyfiyyətləri təsdiq edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman",
+      "Tarixi roman"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 5,
+    "soldCount": 6,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 1024
+      }
+    
+  },
+  {
+    "id": 14,
+    "name": "Anna Karenina (I cild)",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/424c10ae-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "12 ₼",
+    "content": "Ailə dramı, sevgi və cəmiyyətin mənəvi dəyərlərini əks etdirən məşhur roman...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN"
+    ],
+    "stockCount": 8,
+    "soldCount": 15,
+    "view": 0,
+    "feature": 
+      {
+        "dil": "TUR",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "İş Bankası Kültür Yayınları",
+        "səhifə": 1062
+      }
+    
+  },
+  {
+    "id": 15,
+    "name": "Anna Karenina (II cild)",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b39a7ef2-504c-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "23.90 ₼",
+    "content": "Anna Karenina is a novel of unparalleled richness and complexity, set against the backdrop of Russian high society. Tolstoy charts the course of the doomed love affair between Anna, a beautiful married woman, and Count Vronsky, a wealthy army officer who pursues Anna after becoming infatuated with her at a ball. Although she initially resists his charms Anna eventually succumbs, falling passionately in love and setting in motion a chain of events that lead to her downfall. In this extraordinary novel Tolstoy seamlessly weaves together the lives of dozens of characters, while evoking a love so strong that those who experience it are prepared to die for it.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Roman"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN"
+    ],
+    "stockCount": 6,
+    "soldCount": 10,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Paperback",
+        "dil": "ENG",
+        "müəllif": "Lev Tolstoy",
+        "nəşriyyat": "Vintage Classics",
+        "səhifə": 992
+      }
+    
+  },
+  {
+    "id": 16,
+    "name": "İblis",
+    "author": "Lev Tolstoy",
+    "img": "https://images.penguinrandomhouse.com/cover/9781612192321",
+    "price": "3.49 ₼",
+    "content": "Dahi yazar Lev Tolstoy “Şeytan” povestində – əksər əsərlərində olduğu kimi gördüyü, duyduğu, mənimsədiyi həyatı məsələləri ön plana çəkmişdir. Povestin mövzusunun real həyatdan götürülməsi onu daha da özünəməxsus ştrixlərlə zənginləşdirən cəhətlərdəndir. Əsərin qəhrəmanı Yevgeni müəllifin hisslərini oxucuya təqdim edən vasitədir. Əsər boyu müəllif bu obrazın gücü, köməyi ilə Şeytana qarşı mübarizə aparır. Bəs şeytanla insanın amansız mübarizəsində sonda qalib gəlirmi?",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Povest"
+    ],
+    "language": [
+      "AZ",
+      "TUR",
+      "RU"
+    ],
+    "stockCount": 12,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 96
+      }
+    
+  },
+  {
+    "id": 17,
+    "name": "Sergi Ata",
+    "author": "Lev Tolstoy",
+    "img": "https://www.qanun.az/images/news/compressed/240x370/2021-09-14-10-39-351631601575.jpg?v=1",
+    "price": "2.99 ₼",
+    "content": "Dünyəvi həyatdan uzaqlaşıb dinə sığınan bir insanın mənəvi yüksəliş və enişlərini təsvir edən povest...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Povest"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 9,
+    "soldCount": 7,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 80
+      }
+    
+  },
+  {
+    "id": 18,
+    "name": "Kavkaz Əsiri",
+    "author": "Aleksandr Puşkin",
+    "img": "https://www.qanun.az/images/news/compressed/240x360/2021-09-10-14-25-591631269559.jpg?v=1",
+    "price": "3.99 ₼",
+    "content": "A.S.Puşkin öz üsyankar şeirlərinə görə Cə­nuba sürgün ediləndən sonra məş­hur «Cənub poe­ma­ları»nı yazmışdır. Bu sil­si­lə­dən olan poemaların birincisi «Qafqaz əsi­ri»dir. Əsər şairin sürgün illərində öz yaşadıqlarının bədii təsviridir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Hekayə"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 18,
+    "soldCount": 12,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Aleksandr Puşkin",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 80
+      }
+    
+  },
+  {
+    "id": 19,
+    "name": "Hacı Murat",
+    "author": "Lev Tolstoy",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/481f8397-3769-11ee-a519-503eaa120fc7_1.jpg.webp",
+    "price": "4.90 ₼",
+    "content": "1854´de Kırım Savaşı´na subay olarak katılan Tolstoy, bu döneme dair izlenimlerini Hacı Murat´da bütün canlılığıyla romana aktardı. Savaşan taraflar kadar, egemenler ve uyrukları arasındaki ilişkilerin sergilenişi, kişilerin ve coğrafyanın kusursuz tasviri bu esere güçlü bir gerçeklik duygusu kazandırmaktadır. Tolstoy´un 1896-1904 yılları arasında yazdığı Hacı Murat, ölümünden sonra 1912´de yayımlandı",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Povest",
+      "Tarixi povest"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 11,
+    "soldCount": 9,
+    "view": 0,
+    "feature": 
+      {
+        "dil": "TUR",
+        "müəllif": "Lev Nikoloyeviç Tolstoy",
+        "nəşriyyat": "İş Bankası Kültür Yayınları",
+        "səhifə": 165
+      }
+    
+  },
+  {
+    "id": 20,
+    "name": "Gənc Şerlok. İti bıçaq",
+    "author": "Endyu Leyn",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/d2566ecf-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "3.49 ₼",
+    "content": "'Güclü partlayış... Dəhşətli qətllər, tükürpərdici əməllər, dolaşıq məsələlər, daim ölüm-dirim mübarizəsi və daha nələr, nələr...' - Çarli Hiqson HƏR ƏFSANƏNİN BİR BAŞLANĞICI VAR Gənc Şerlok Holms Qərbi İrlandiyadadır. Lakin tətilə getməyib. Qardaşı Maykroft ölülərlə ünsiyyət qura bildiyini iddia edən və öz xidmətlərini ən yüksək qiymətə satmağa hazırlaşan medium araşdırır. Şerlok, Maykroft və Avropa dövlətlərinin rəsmi nümayəndələri həmin mediumun ölülər dünyasının sirlərini həqiqətən bilib-bilmədiyini dəqiqləşdirməlidir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Detektiv"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 6,
+    "soldCount": 14,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "ENDYU LEYN",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 280
+      }
+    
+  },
+  {
+    "id": 21,
+    "name": "Müfəttiş",
+    "author": "Nikolay Qoqol",
+    "img": "https://kitabevim.az/wp-content/uploads/2025/02/2021-09-14-10-29-451631600985.jpg",
+    "price": "3.49 ₼",
+    "content": "“Müfəttiş” dahi rus yazıçısı Qoqolun tərəfindən qələmə alınan 5 pərdəli komediyadır. Əsər Puşkinin təsiri ilə qələmə alınmışdır. Belə ki, Puşkin o dövrdə bir çox şəxsin özünü yalandan müfəttiş kimi qələmə verib saxtakarlıq və özbaşınalıqlara yol verməsi haqda Qoqola söhbət açır. Qoqol da bu mövzudan ilhamlanaraq bu möhtəşəm əsəri yazmağa başlayır. Əsərdə saxtakar bir şəxsin müfəttiş adıyla özbaşınalıqlar törətməsi, kənd əhalisi bunu anladıqda isə gerçək müfəttişin kəndə təşrif buyurması sadə dillə əks olunub.",
+    "category": "Dram əsərləri",
+    "subcategory": [
+      "Komediya"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 20,
+    "soldCount": 18,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Nikolay Qoqol",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 128
+      }
+    
+  },
+  {
+    "id": 22,
+    "name": "Burun",
+    "author": "Nikolay Qoqol",
+    "img": "https://kitabevim.az/wp-content/uploads/2024/04/1560145.jpg",
+    "price": "5.49 ₼",
+    "content": "Qəribə və fantastik bir hadisənin baş qəhrəmanın həyatına təsirini təsvir edən hekayə...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Hekayə",
+      "Fantastika"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 25,
+    "soldCount": 22,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Nikolay Qoqol",
+        "nəşriyyat": "Çardaq Nəşriyyat",
+        "səhifə": 60
+      }
+    
+  },
+  {
+    "id": 23,
+    "name": "Şinel",
+    "author": "Nikolay Qoqol",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/e49af988-494d-11ed-a50b-503eaa120fc7_1.jpg.webp",
+    "price": "4.90 ₼",
+    "content": "Dahi yazıçı Qoqolun “Şinel” hekayəsi rus ədəbiyyatının “kiçik insan” mövzusunda yazılmış ən sanballı əsərlərindən biridir. Dostoyevskiyə istinad edilən “hamımız Qoqolun şinelindən çıxmışıq” sözü bu qısa, amma bənzərsiz mətnin necə böyük ədəbi fakt olduğunu çox bariz şəkildə göstərir. Süjet xətti elə də mürəkkəb olmayan əsərin dünya ədəbiyyatında bu qədər əhəmiyyət daşımasında Qoqolun sənətkarlığının müstəsna rolu var. Hekayə ironiya, metafora, simvolizmlə zəngindir, süjeti acı bir realistik xətlə davam eləsə də, sonlara doğru fantastik istiqamət alır, hadisələr absurdizmin içində cərəyan edir. Qoqol sənətkaranə şəkildə Akaki Akakiyeviçin kədərli həyatını təhkiyəsində sentimentallığa yer vermədən, əksinə, ironiya və sarkazmla təqdim edir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Hekayə"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 15,
+    "soldCount": 28,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Nikolay Qoqol",
+        "nəşriyyat": "Nikolay Qoqol",
+        "səhifə": 80
+      }
+    
+  },
+  {
+    "id": 24,
+    "name": "Evlənmə",
+    "author": "Nikolay Qoqol",
+    "img": "https://mir.az/uploads/posts/2023-01/1675174810_Mir.az-0000000416804-1.webp",
+    "price": "4 ₼",
+    "content": "Evlənmək istəyən bir neçə insanın komik vəziyyətlərini təsvir edən pyes...",
+    "category": "Dram əsərləri",
+    "subcategory": [
+      "Komediya"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 10,
+    "soldCount": 16,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Nikolay Qoqol",
+        "nəşriyyat": "Qanun nəşriyyatı",
+        "səhifə": 1024
+      }
+    
+  },
+  {
+    "id": 25,
+    "name": "Cəhənnəmdən gələn səs",
+    "author": "Elxan Elatlı",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/3dfe5a0f-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "9.90 ₼",
+    "content": "Detektiv romanlar müəllifi Elxan Elatlının 'Cəhənnəmdən gələn səs' romanında XX əsrin ən dəhşətli vəhşiliyi olan Xocalı soyqırımından, erməni əsirliyindəki azərbaycanlıların qorxunc planlara alət edilməsindən və onların tükürpərdici aqibətindən bəhs olunur. 17 ildir erməni əsirliyində olan bir azərbaycanlı qadın təsadüfən əlinə keçən imkandan istifadə edərək Bakıdakı təsadüfi nömrələrin birinə zəng vurub Azərbaycanda təxribat və qətllərə hazırlaşan ermənilərin müdhiş planı haqda məlumat verir. Qadın özü kimi erməni əsirliyində olan Səid adlı oğlunun təlimatlandırılaraq Bakıya göndərildiyini deyib telefonu söndürür. Gecə yarısı evinə zəng gələn adam isə bu məlumatı Azərbaycanın xüsusi xidmət orqanlarına çatdırır. Azərbaycan kəşfiyyatçıları dərhal fəaliyyətə keçərək əməliyyat planı hazırlayırlar. 'Leopard' ləqəbli Azərbaycan kəşfiyyatçısı Ermənistandan Bakıya zəng vuran qadını axtarmaq üçün düşmən ölkənin ərazisinə keçir... Kitab geniş oxucu kütləsi üçün nəzərdə tutulub.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Detektiv"
+    ],
+    "language": [
+      "AZ",
+      "TR",
+      "EN",
+      "RU"
+    ],
+    "stockCount": 22,
+    "soldCount": 45,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Elxan Elatlı",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 476
+      }
+    
+  },
+  {
+    "id": 26,
+    "name": "Səyahət kitabı",
+    "author": "Malkolm Kraft",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/cc57df11-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "29.90 ₼",
+    "content": "Bu kitabda planetimizdəki bütün ölkələr, nadir heyvanlar, qeyri-adi mənzərəyə malik məkanlar, əyləncəli festivallar və inanılmaz ləzzətə malik yeməklər barədə maraqlı məlumatlar cəmləşdirilib. Oxucular yapışqan bulkalardan hazırlanmış nəhəng qülləyə necə qalxa biləcəklərini, bokikokikonun nə olduğunu, ilk dəfə qütb ayısının kimə hədiyyə edildiyini və daha bir çox məlumatları öyrənə biləcəklər.",
+    "category": "Qeyri-bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Səyahət & Məkanlar"
+    ],
+    "language": [
+      "AZ",
+      "FR"
+    ],
+    "stockCount": 14,
+    "soldCount": 10,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Malkolm Kraft",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 212
+      }
+    
+  },
+  {
+    "id": 27,
+    "name": "Nəfəs",
+    "author": "Ramiz Rövşən",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/85604437-24bf-11ef-a54e-503eaa120fc7_1.jpg.webp",
+    "price": "19.90 ₼",
+    "content": " 'Bir cildin altında beş kitab. Kitablar kitabı. Ramiz Rövşənin bu bircildliyi sözlərdən hörülmüş evə bənzəyir. Bir damın altında beş otaq. Əsərləri dünyanın bir çox ölkələrində çap edilmiş, ingilis, fransız, alman, ispan, polyak, bolqar, rus, Ukrayna və s. dillərə tərcümə olunmuş şairin bu bircildliyi ana dilimizdə işıq üzü görən ən irihəcmli kitabıdır. İnanırıq ki, bir çox şeirləri dillər əzbəri olan bu kitabın ilk dəfə müəllifin imzası ilə çap edilən bu yeni, nəfis nəşri həm şairin köhnə oxucularını sevindirəcək, həm də ona yeni-yeni oxucular qazandıracaq.'",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Poemalar"
+    ],
+    "language": [
+      "AZ",
+      "FR"
+    ],
+    "stockCount": 19,
+    "soldCount": 13,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Ramiz Rövşən",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 768
+      }
+    
+  },
+  {
+    "id": 28,
+    "name": "Gecə Uçuşu",
+    "author": "Antoine de Saint-Exupéry",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/2a153cdf-3769-11ee-a519-503eaa120fc7_1.jpg.webp",
+    "price": "6.90 ₼",
+    "content": "Patagonya, Şili ve Paraguay’dan kalkan üç posta uçağı güneyden, batıdan ve kuzeyden Buenos Aires’e gelmektedir. Avrupa uçağının gece yarısı kalkabilmesi için onların getireceği kargo beklenmektedir. Üç pilotun her biri duba gibi ağır bir motor kapağının ardında, gecede yitip gitmiş, uçuşlarıyla ilgili derin düşüncelere dalmıştır. Tüm bu ağın yöneticisi olan Rivière gecenin getireceklerinin endişesiyle Buenos Aires iniş pistinde bir aşağı bir yukarı gidip gelmektedir… Antoine de Saint-Exupéry, Prix Femina (1931) ödüllü bu romanında kendi pilotluk deneyimlerinden yola çıkarak anlattığı tek bir gecenin hikâyesiyle, ticari havacılığın geleceğini ellerinde tutan pilotların yaşamlarının havayolu şirketleri için nasıl sadece bir araç olduğunu gözler önüne seriyor.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "FR"
+    ],
+    "stockCount": 16,
+    "soldCount": 11,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Ciltsiz",
+        "dil": "TUR",
+        "müəllif": "Antoine de Saint-Exupéry",
+        "nəşriyyat": "Alfa Yayınları",
+        "səhifə": 112
+      }
+    
+  },
+  {
+    "id": 29,
+    "name": "21 günə həyatını dəyiş",
+    "author": "Luiza Hey",
+    "img": "https://www.libraff.az/images/from_1c/066de26d-1fba-11ed-a50a-503eaa120fc7_1.jpg",
+    "price": "8.90 ₼",
+    "content": " ' Güzgü işi” Luiza Heyin insanın özü və başqaları ilə daha dərin münasibətlər qura və inkişaf etdirə bilməsi, həmçinin dəyərli və mənalı həyat yaşaması üçün işləyib hazırladığı və uzun müddətdir ki, tətbiq etdiyi bir metoddur. İndi isə müəllif “Güzgü işi” kitabında göstərir ki, bu sadə, lakin çox effektiv metodu cəmi 21 gün ərzində pozitiv dəyişikliyinizi və özünüzə qayğını davamlı olaraq dəstəkləyən bir üsul kimi öyrənə bilərsiniz. “İnsanlara affirmasiyaları öyrətməyə başladığım gündən bəri onlara “güzgü işi” metodunu da öyrədirəm. Ən təsirli və effektiv affirmasiyalar isə sizin güzgü qarşısında dayanaraq ucadan söylədiyiniz affirmasiyalardır. Bu zaman güzgü özünüzlə bağlı hiss etdiklərinizi əks etdirərək sizə “geri qaytarır” və siz harada müqavimət göstərdiyinizin, harada isə açıq, səmimi və rahat davrandığınızın dərhal fərqinə varırsınız. Güzgü sizə açıq-aydın göstərir ki, xoşbəxt və dolğun bir həyat yaşamaq istəyirsinizsə, buna mane olan düşüncələrinizi dəyişməli olacaqsınız'. Luiza Hey",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Şəxsi inkişaf"
+    ],
+    "language": [
+      "AZ",
+      "FR"
+    ],
+    "stockCount": 12,
+    "soldCount": 9,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Luiza Hey",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 184,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 30,
+    "name": "1984",
+    "author": "CORC ORUELL",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
+    "price": "6.80 ₼",
+    "content": " '1984' romanı dünya ədəbiyyatının ən çox tərcümə olunan və ən çox oxunan əsərlərindən biridir. 100-ə yaxın dilə çevrilmiş bu romanda totalitarizmin dəhşətləri və diktaturanın insan həyatını məhv edən qansızlıqları böyük ustalıqla təsvir olunub. Əsəri oxuyan hər kəs onun ilk cümləsindən sonuncusunadək gərginlik içində qalır və kitabı əlindən yerə qoymaq istəmir. İnsanı tilsimləyən səbəblərdən biri də odur ki, 73 il əvvəl yazılan əsəri oxuduqca müasir dünyanın ayrı-ayrı guşələrində hələ də bu məşhur antiutopiya romanında təsvir edilmiş cəmiyyətə oxşayan quruluşların olduğunu görürük. Müəllifin təqdim etdiyi cəmiyyətin əsas şüarları bunlardır: Müharibə – sülhdür! Azadlıq – köləlikdir! Cəhalət – qüvvədir! Yalan – həqiqətdir! Məhəbbət – ölümdür! Bəs “qaranlığın olmadığı yerdə” görüşməyə ümid edən, daha işıqlı gələcəyin mövcudluğuna inanan Uinston Smit və onun sevgilisi Culiya bu istəklərinə çatacaqmı? Daim onlara “baxan” Böyük Qardaşın baxışlarından gizlənə, onları fasiləsiz izləyən teleekrandan yayına, tiranın həmişə başlarının üstündə olan dəmir pəncəsindən qurtula biləcəklərmi?...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 18,
+    "soldCount": 30,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "CORC OURELL",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 372,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 31,
+    "name": "Drakula",
+    "author": "BREM STOKER",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/8e1b01ad-1509-11f0-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "15.90 ₼",
+    "content": "Əsərin mənfi qəhrəmanı qraf Drakula gerçək ömrünü neçə əsr qabaq başa vurub, lakin hələ xortdan kimi yaşayır. O, insan qanına yerikləyən vampirdir, adamların qanını içir, onları öz zombilərinə, kölələrinə çevirir və bu ehtirasını söndürmək üçün hər fitnəyə qol qoyur. Qraf Drakulanın getdikcə artan iştahası onu xarabazar qəsrindən çıxıb daha izdihamlı, daha gur məskən seçməyə vadar edir. Onun məqsədi yeni insan növü yaratmaqdır. O öz bəndələrini yaratmaq istəyir və Allaha meydan oxuyur. Güclüdür, hiyləgərdir, bütün insanlardan təcrübəlidir… Ölmür, amma heç də ölməz deyil…",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "DE"
+    ],
+    "stockCount": 21,
+    "soldCount": 17,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "BREM STOKER",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 484,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 32,
+    "name": "Emil və Detektivlər",
+    "author": "Erix Kestner",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/af219729-d5aa-11ec-a501-503eaa120fc7_1.jpg.webp",
+    "price": "4.00 ₼",
+    "content": "Alman uşaq ədəbiyyatının klassiki sayılan Erix Kestnerin “Emil və detektivlər” əsəri Emil adlı uşağın başına gələn macəralardan bəhs edir. İlk dəfə Berlinə qatarla yola düşən Emil çox həyəcanlıdır. Lakin onunla eyni kupedə səyahət edən koteloklu cənabın görünüş və hərəkətlərini bəyənmir. Sonra Emil yuxuya gedir. Oyananda görür ki, kupedəki koteloklu cənab da, cibindəki pullar da yoxdur. Elə əsl macəra da bundan sonra başlayır. O, Berlində tanış olduğu uşaqlarla – gənc detektiv dəstəsi ilə birləşərək oğrunu tutmaq üçün təqibə başlayır.",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Detektiv"
+    ],
+    "language": [
+      "AZ",
+      "RU"
+    ],
+    "stockCount": 15,
+    "soldCount": 25,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Erix Kestner",
+        "nəşriyyat": "Libra",
+        "səhifə": 148
+      }
+    
+  },
+  {
+    "id": 33,
+    "name": "Qanadsız mələk",
+    "author": "Aysel Şıxlinskaya",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/f8dc0b75-d291-11ec-a501-503eaa120fc7_2.jpg.webp",
+    "price": "8.90 ₼",
+    "content": "'... Yerimizdən qalxıb qapıya tərəf addımladıq. Qapının ağzında dar pilləkənlərdə dayandıq. Çölü içəridən cəmi dörd-beş addım ayırsa da, bir anda bütün səslər kəsildi. Külək başımızın üstündə yanıb-sönən zəif işıqlı lampanı astaca yellədirdi. Paslanmış lampanın çıxardığı cıqqıltı səsi sakitliyi pozan yeganə səs idi... Yanaşı durmuşduq. Bir az əvvəl susmayaraq danışıb-gülən insanlar indi bir-birinə deməyə nəinki söz tapmır, hətta bir-birinin üzünə də baxa bilmirdi. İkimiz də qaranlıq, boş küçəyə, yağan yağışa baxırdıq. Danışmırdıq...' ... 'Qanadsız mələk' həssas qəlbləri titrədəcək bir sevgi romanıdır.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Romanlar & Novellalar"
+    ],
+    "language": [
+      "AZ",
+      "DE"
+    ],
+    "stockCount": 10,
+    "soldCount": 12,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Aysel Şıxlinskaya",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 372,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 34,
+    "name": "Bir at bara girir",
+    "author": "Devid Qrossman",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/fe999587-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "10.00 ₼",
+    "content": "Kiçik İsrail şəhərində komik Dov Qrinşteyn öz gecə stendapını nümayiş etdirir. Tamaşaçılar arasında Dovun uşaqlıqdan tanıdığı, indi isə bölgənin hakimi olan Avişay Lazar və Dovun qonşuların təhqirlərindən qaçmaq üçün əl üstündə gəzən qəribə oğlan olduğu illəri xatırlayan bir neçə nəfər var. Tamaşa tədricən ruh yüksəkliyi və isteriya arasında gedib-gələrkən Dovun çıxışı bir növ uşaqlıqda yaşadığı dəhşətin təsvir edildiyi memuara çevrilir: biz həm onun gözəl çiçəyi, Holokostdan sağ çıxmış və daim nəzarətə ehtiyac duyan anası, həm də daim cəzalar verən, iş-güc adamı olan və oğlunun yaradıcılığını anlamayan atası ilə qarşılaşırıq. Nəhayət, Dov uşaq ikən hərbi düşərgədə keçirdiyi bir həftəni xatırlayır – Lazar Dovun həyatında həlledici rol oynayan hadisəyə orada şahid olmuşdu. Dov bununla izaholunmazı izah etməyə çalışır, Lazar isə komikin itirmək və sağ qalmaq barədə əhvalatının öz payına düşən hissəsinə görə narahatdır. Stend-ap aktyorunun kədərli həyatının detalları aktyorun axşam tamaşasınıngedişatında üzə çıxır. Komik aktyorla tamaşaçılar arasındakı oyunun, qarşılıqlı atılan nizələrin fonunda göründüyündən daha dərin əhvalat formalaşmağa başlayır. Bu əhvalat tamaşada iştirak edən bir çoxlarının həyatını dəyişəcək. Əsərdə zövqə görə dəyişən zarafatlar var.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Romanlar & Novellalar"
+    ],
+    "language": [
+      "AZ",
+      "DE"
+    ],
+    "stockCount": 23,
+    "soldCount": 19,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Devid Qrossman",
+        "nəşriyyat": "Yay Kitab",
+        "səhifə": 248,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 35,
+    "name": "Sənə qovuşanadək",
+    "author": "Cudit Maknaut",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b08e2693-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "14.00 ₼",
+    "content": " ' İnsanlar neçə illər idi ki, bu romanı gözləyirdilər. 'Sənə qovuşanadək' romanı sizi duyğular okeanında gəzintiyə çıxaracaq' - Keti Robin, 'Romantic Times'ın redaktoru, 'USA Today' 'New York Times'ın əsərləri ən çox satılan müəlliflərindən biri Cudit Maknaut yenidən Uestmorelandlar ailəsi hekayətinə qayıdaraq, pərəstişkarlarının 'Uitni - mənim sevgim' romanından bəri gözlədiyi hekayəni qələmə aldı. Vəhşi Amerika çöllərindən 1820-ci ilin Londonuna, zərif bal salonlarına aparan möhtəşəm sevgi nağılında gözəl, cəsarətli bir qız romantik macəraya atılır. Zəngin, gənc xanımlar üçün məktəbdə müəllimə işləyən Şeridan Bromley İngiltərədə nişanlısı ilə görüşə gedən tələbələrindən birini - Çariz Lankasteri müşayiət etmək üçün yola çıxır. Gənc həyat yoldaşı başqa bir adama qoşulub qaçandan sonra Şeridan fikirləşir ki, görəsən, bunu Çarizin nişanlısı Lord Börltona necə izah edəcək. Sahildə gözləyən Lanqford qrafı Stefen Uestmoreland ona yaxınlaşan gənc qadının Çariz Lankaster olduğunu düşünür və ona nişanlısı Lord Börltonun bir gecə qabaq öldüyünü, bu qəzada özünün günahkar olduğunu izah edir. Şeridan ağzını açıb danışmaq istəyərkən yuxarıdan başına ağır şey düşdüyündən huşunu itirir. Üç gün sonra Şeridan Bromley gözlərini Stefen Uestmorelandın London iqamətgahında açır. Lakin yaddaşını itirir və kim olduğunu xatırlamır. Hamı onun xanım Lankaster olduğunu zənn edir. Şeridan isə bircə onu bilir ki, bu yaraşıqlı, başgicəlləndirici dərəcədə cazibədar ingilis qrafına vurulub və qarşıda onu gözləyən həyat gözəlliklərlə doludur...",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Romanlar & Novellalar"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 5,
+    "soldCount": 12,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Cudit Maknaut",
+        "nəşriyyat": "Yay Kitab",
+        "səhifə": 508
+      }
+    
+  },
+  {
+    "id": 36,
+    "name": "Martin İden",
+    "author": "CEK LONDON",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/martin-iden-front-book__1_.jpg.webp",
+    "price": "13.90 ₼",
+    "content": " 'Martin İden' Cek Londonun sayca 21-ci romanıdır və avtobioqrafik xarakter daşıyır. Yazıçı romanda şəxsiyyətin mənəvi süqutuna çıraq tutur. Martin İden mənsub olduğu sosial təbəqədən qopub yad cisim kimi burjua dünyasına düşür, Morzlar ailəsi onun mənəvi aləmini tar-mar edir. Martin İden Cek Londonun özüdür və ən dəhşətlisi də budur ki, yazıçı bu romanda öz sonunu dəqiqliklə təsvir edib. 'Martin İden' cəsarətin, gücün, ümidin, inamın, ağlın, sevginin, əməyin romanıdır. Adi bir matros olan Martin 'iynə ilə gor qazaraq' dövrünün ən məşhur yazıçısına çevrilir. Ruf üçün, sevdiyi qadın üçün... Bəs Martinin itirdiyi cənnət və ya qazandığı cəhənnəm nələrdən ibarətdir? Hansı Martin daha xoşbəxt idi? 'Martin İden' in özünəməxsus sehri var və çox az adam bu sehrdən yayına bilir. Romanı oxuyan insanlarda yazıçı olmağa böyük həvəs yaranır. Bir çox məşhur yazıçılara stimul verən məhz bu əsər olub. Kitabı əlinizdən yerə qoymaq o qədər də asan olmayacaq və təsirindən uzun müddət, bəlkə də, bir ömür boyu çıxa bilməyəcəksiniz.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 7,
+    "soldCount": 10,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "CEK LONDON",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 490
+      }
+    
+  },
+  {
+    "id": 37,
+    "name": "Notr-Dam Kilsəsinin Qozbel Zəngçisi",
+    "author": "Viktor Hüqo",
+    "img": "https://static.insales-cdn.com/r/h8HaLC2fBvM/rs:fit:1140:1140:1/q:80/plain/images/products/1/4130/171069474/93c71f160db37b79632a9851b748871a.jpg@webp",
+    "price": "11.99 ₼",
+    "content": "Dünya ədəbiyyatının ən məşhur əsərlərindən olan “Paris-Notr-Dam kilsəsi”romanında çoxdan unudulmuş dövrün tarixi təsviri ilə yanaşı sadə insanın günlük yaşamı və dəyərləri də canlandırılaraq kütləvi tarixi şüur, dünya və insan haqqındakı təsəvvürlərin spesifikası, insanların inam və ümidləri əks olunur. Əsərdə insanın azadfikirliyi və mənəvi müstəqilliyi konsepsiyası Fransadakı cari hadisələrlə əlaqələndirilir. Orta əsrlərin sonlarından bəhs edən romanında Viktor Hüqo gələcəyin keçmişin varisi olduğunu göstərməyə çalışır. Əsərdə dini inamın zəifləməsi, yüzillər boyu toxunulmaz olan ehkamlara qarşı şübhə, yeni təlimlərin bolluğu cəmiyyətin öz inkişafının son hədəfinə – demokratiyaya yaxınlaşmasına sübut kimi göstərilir. Yazıçı təsvir etdiyi dövrün əlamətlərini romanın əsas qəhrəmanlarının – Esmeraldanın, Kvazimodonun və Klod Frollonun xarakterlərində və talelərində təcəssüm etdirmişdir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 4,
+    "soldCount": 9,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Viktor Hüqo",
+        "nəşriyyat": "Əli və Nino Nəşriyyatı və Qanun Nəşriyyatı",
+        "səhifə": 512
+      }
+    
+  },
+  {
+    "id": 38,
+    "name": "Gülən Adam",
+    "author": "Viktor Hüqo",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/e69bdfa6-3ff8-11ec-a4fd-503eaa120fc7_1.jpg.webp",
+    "price": "13.00 ₼",
+    "content": "Böyük fransız şairi və yazıçısı Viktor Hüqonun “Gülən adam” əsəri XVIII əsrin əvvəllərində ingiltərə sahillərində qışın çovğununda tərk edilmiş bir uşağın həyat HEKAYƏSİDİR. “Gülən adam” düşünməyi sevən oxucunun əsəridir, çünki Viktor Hüqonun bu əsəri səfalət və ZƏNGİNLİK, istibdad və AZADLIQ, sevgi və nifrət, işıq və Qaranlıq, ən əsası, Xeyir və Şər kimi əbədi mövzular haqqında danışır. Gülən adam dünya ədəbiyyatının və kinematoqrafiyasının ilhamlandığı bir obrazdır. Bu əsərdə hər şey: həm macəra, həm tarix, həm siyasət, həm faciə, həm acı gerçəklik, həm də şirin romantizm var. Eybəcər Quinplenin, filosof Ursusun simasında bütöv bir əsrin epik mənzərəsi canlandırılır. Obrazların taleyi ilə İngiltərə tarixi bu əsərdə yanaşı addımlayır... Tarixlə insan taleyi bir-birinə dolaşır, bəlkə, tarix insan taleyini yazır, bəlkə də, insan taleləri bu tarixi yazır.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 6,
+    "soldCount": 7,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Viktor Hüqo",
+        "nəşriyyat": "Parlaq İmzalar",
+        "səhifə": 720
+      }
+    
+  },
+  {
+    "id": 39,
+    "name": "93-Cü Il",
+    "author": "Viktor Hüqo",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/37f599a6-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "3.00 ₼",
+    "content": "Dünya ədəbiyyatının görkəmli nümayəndələrindən biri Viktor Hüqo 'Səfillər', 'Gülən adam', 'Notr-Dam kilsəsinin qozbeli' kimi klassikləşmiş əsərlərin müəllifidir. Fransanın siyasi həyatında fəal iştirak edən Hüqo vətənində respublika ideyasının alovlu tərəfdarlarından birinə çevrilmişdi. Çünki bu ideya ölkənin xoşbəxt gələcəyini insanların azad və bərabərhüquqlu yaşamasında görürdü. Hüqo əsərlərində respublikaçılıq uğrunda mübarizəni parlaq şəkildə təsvir edirdi. Onun '93-cü il' romanı da bu qəbildəndir. Əsərin qəhrəmanlarından biri – Lantenak köhnə rejimin (monarxiyanın), qardaşı nəvəsi Simurden isə respublikanın tərəfdarıdır. Roman onların timsalında bu iki ideya arasındakı amansız mübarizədən bəhs edir.",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "FR"
+    ],
+    "stockCount": 8,
+    "soldCount": 5,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Viktor Hüqo",
+        "nəşriyyat": "Altun",
+        "səhifə": 128
+      }
+    
+  },
+  {
+    "id": 40,
+    "name": "Bilinmeyen Bir Kadının Mektubu - Modern Klasikler Dizisi",
+    "author": "STEFAN ZWEIG",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/42779234-a84f-11ed-a515-503eaa120fc7_1.jpg.webp",
+    "price": "5.90 ₼",
+    "content": "Bilinmeyen Bir Kadının Mektubu ; Stefan Zweig’ın 1922 tarihli bu novellası, saplantılı aşk üzerine yazılmış en çarpıcı metinlerden biridir. Hayatı boyunca kendisinin farkında bile olmayan bir adamı umutsuzca sevmiş bir kadının yürek parçalayan aşk itirafıdır. Aşkının nesnesi olan kişi ise ömrü boyunca bir kez olsun söz ve eylemlerinin başkalarının hayatları üzerindeki etkisini düşünmemiştir. Zweig bu yapıtında insanların iç âlemlerine girmek ve onları gerçekten anlamak için toplum önündeki duruş ve davranışlarından yola çıkılamayacağına da dikkat çeker. Bu son derece tahripkâr karşılıksız aşkın hikâyesi, 1948 yılında Alman yönetmen Max Ophüls’ün imzasını taşıyan unutulmaz bir Hollywood klasiğine de ilham vermiştir.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "ES",
+      "EN"
+    ],
+    "stockCount": 10,
+    "soldCount": 20,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "STEFAN ZWEIG",
+        "nəşriyyat": "İş Bankası Kültür Yayınları",
+        "səhifə": 68
+      }
+    
+  },
+  {
+    "id": 41,
+    "name": "Kürk Mantolu Madonna (2019)",
+    "author": "SABAHATTIN ALI",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/4a88e931-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "5.90 ₼",
+    "content": "Her gün, daima öğleden sonra oraya gidiyor, koridorlardaki resimlere bakıyormuş gibi ağır ağır, fakat büyük bir sabırzıszılka asıl hedefine varmak isteyen adımlarımı zorla zapt ederek geziniyor; rastgele gözüme çarpmış gibi önünde durduğum Kürk Mantolu Madonnayı seyre dalıyor, ta kapılar kapanıncaya kadar orada bekliyordum. Kimi tutkular rehberimiz olur yaşam boyunca. Kollarıyla bizi sarar. Sorgulamaktan peşlerinden gideriz ve hiç pişman olmayacağımızı biliriz. Yapıtlarında insanların görünmeyen yüzlerini ortaya çıkaran Sabahattin Ali, bu kitabında güçlü bir tutkunun resimini çiziyor. Düzenin sildiği kişiliklere, yaşamın uçuculuğuna ve aşkın olanaksızlığına dair, yanıtlanması zor sorular soruyor.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Klassiklər"
+    ],
+    "language": [
+      "AZ",
+      "ES",
+      "EN"
+    ],
+    "stockCount": 9,
+    "soldCount": 15,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "SABAHATTIN ALI",
+        "nəşriyyat": "Yapı Kredi Yayınları",
+        "səhifə": "163"
+      }
+    
+  },
+  {
+    "id": 42,
+    "name": "Məqsədlisən?",
+    "author": "Nadir Adilman",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/ec9debb9-5053-11eb-a4d2-503eaa128442_2.jpg.webp",
+    "price": "9.50 ₼",
+    "content": "Kitab müxtəlif yollarla inkişaf etmək istəyən, məqsədsiz və məqsədli baxışlara malik “yaxşı oğlan” və “ağıllı qız” obrazları üzərində qurulub. Məqsədli və məqsədsiz işgüzar inkişaf baxışlarına malik, eyni yaşda olan, eyni məktəbdə oxumuş, hətta universitetdə eyni ixtisasa qəbul olan iki güclü tələbə gəncin həyat tərzi qarşılıqlı müqayisə edilir və nəticə çıxarmaq oxucuların ixtiyarına verilir. “Yaxşı oğlan” yaxşı oğlan və yaxşı qızları, “ağıllı qız” isə ağıllı qız və ağıllı oğlanları təmsil edir. Amma hansı kateqoriya nümayəndəsinin işgüzar inkişaf üçün önəmli obraz olduğunu oxucu özü müəyyənləşdirməlidir. Gənclərin işgüzar inkişafına kömək edəcək bu kitab çox sadə dildə yazılıb. Kitabda işgüzar inkişafın müxtəlif mərhələlərində olan və müəllifin də şəxsən tanıdığı şəxslərin həyatındakı real hadisələrə də yer verilib.",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Şəxsi inkişaf"
+    ],
+    "language": [
+      "AZ",
+      "ES"
+    ],
+    "stockCount": 14,
+    "soldCount": 11,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Nadir Adilman",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 188,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 43,
+    "name": "Ustad",
+    "author": "Raqif Raufoğlu",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5ea8cb7f-f3ed-11ee-a54e-503eaa120fc7_1.jpg.webp",
+    "price": "8.00 ₼",
+    "content": "Raqif Raufoğlunun “Ustad” romanı Azərbaycan tarixinə fərqli yanaşma əsasında qələmə alınıb. Milli və irfani kimlik məsələsinin ön planda olduğu və ayrıayrı tərəflərinin incəliyinə qədər araşdırıldığı bu əsərdə oxucuya müasir dillə bir çox alternativlər təqdim edilir. “Ustad” janr və üslub baxımından alışmadığımız tərzdə, fərqli təhkiyə üslubunda yazılıb. Reallıqla mistikanın sərhədində baş verən hadisələr oxucunu dilemma qarşısında qoyub çaşdırsa da, əsərdə bir çox suallara maraqlı və ağlabatan cavablar tapacaqsınız",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Romanlar & Novellalar"
+    ],
+    "language": [
+      "AZ",
+      "ES"
+    ],
+    "stockCount": 17,
+    "soldCount": 13,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Raqif Raufoğlu",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 120
+      }
+    
+  },
+  {
+    "id": 44,
+    "name": "Yekaterina ve Potyomkin",
+    "author": "SAYMON SEBAQ MONTEFIORE",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/6286d658-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "19.60 ₼",
+    "content": "Bu, tarixin ən uğurlu siyasi partnyorluğu idi - o, yaradıcı və uzaqgörən olduğu qədər də ehtiraslı və alovlu idi. Böyük Yekaterina ehtirası və imperiya iddiaları ilə ad çıxarmış bir qadın idi. Son dərəcə parlaq və həddən artıq istedadlı bir insan olan knyaz Potyomkin isə onun həyatının məhəbbəti və idarəetməni taxt-tacda onunla birgə həyata keçirən insan idi. Onlar birlikdə Ukrayna və Krımı tutdular və dövrümüzdəki Rusiya imperiyasının sərhədlərini müəyyən etdilər. Onların münasibətləri o qədər coşğun idi ki, danışıb hakimiyyəti bölüşməyə razılaşdılar və Potyomkin öz bacısı qızları, Yekaterina isə gənc sevgililəri ilə sərbəst şəkildə sevgi münasibətləri yaşamağa başladı. Lakin bu 'əkiz ruhlar' ın bir-birinə olan sevgisi heç vaxt bitmədi. Saymon Sebaq Montefiorenin onların bir-birlərinə yazdığı sevgi məktublarından çıxış edərək və yeni geniş tədqiqatlar aparmaqla qələmə aldığı heyrətamiz və böyük rəğbətlə qarşılanan bu bioqrafik əsəri imperiyanın bu iki partnyorunu dövrlərinin azmanları kimi layiq olduqları yerə qoyur.",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Bioqrafiya, avtobioqrafiya & Xatirə"
+    ],
+    "language": [
+      "AZ",
+      "ES"
+    ],
+    "stockCount": 12,
+    "soldCount": 9,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "SAYMON SEBAQ MONTEFIORE",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 884
+      }
+    
+  },
+  {
+    "id": 45,
+    "name": "Tarixi şəxsiyyətin tarixi. Ə. Topçubaşov",
+    "author": "Ə. TOPÇUBAŞOV",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/3dfe5a03-5050-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "17.00 ₼",
+    "content": "Bakı : Azərbaycan Diplomatik Akademiyası, 2013",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Bioqrafiya, avtobioqrafiya & Xatirə"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 25,
+    "soldCount": 35,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Мягкая обложка",
+        "dil": "AZE",
+        "müəllif": "Ə. TOPÇUBAŞOV",
+        "nəşriyyat": "Ada",
+        "səhifə": 587
+      }
+    
+  },
+  {
+    "id": 46,
+    "name": "Poetik diaqnoz",
+    "author": "Elçin Rey",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/0d19f329-7f11-11ef-a555-503eaa120fc7_1.jpg.webp",
+    "price": "10.50 ₼",
+    "content": "Tibbin axtardığı sağlamlıq ədəbiyyatın tapdığı sevgidədir. Poetik diaqnoz - içi dərmanlarla dolu bir qutudur. Bilirəm, qutudan daha çox kitaba, dərmanlardan daha çox şeirlərə bənzəyir. Bu, poeziya və tibbin birgə kəşf etdiyi yeni preparatdır. Gözlər və qulaqlar vasitəsilə ruha asanlıqla qəbul olunur. Ən dərin yaralarınızı qucaqlamaq istəyən dərmanların, demək olar ki, yan təsirləri yoxdur. Nadir hallarda bir-iki damla göz yaşına səbəb ola bilər. Ruhunuz hüceyrələrdən kəlmələrə uzanan ən qədim yollara bələd olandan sonra siz başqa yollarda daha sağlam irəliləyib, özünüzü daha güvənli hiss edəcəksiniz.",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Poemalar"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 22,
+    "soldCount": 30,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "SAYMON SEBAQ MONTEFIORE",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 168,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 47,
+    "name": "Metanoya",
+    "author": "Xülya Sabirli",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/d8d3c811-7f10-11ef-a555-503eaa120fc7_1.jpg.webp",
+    "price": "7.90 ₼",
+    "content": "Saxta xoşbəxtlik maskasını çıxarıb atmaq, yoxsa illərdir oynadığın rola sadiq qalmaq? Fərəh Əlisoy kənardan mükəmməl görünən bir həyat yaşayır. Lakin günlərin bir günü evinin zirzəmisində məhkum kimi saxlanılan Duyğu ilə qarşılaşması, beləliklə də, həyat yoldaşının xəyanətindən xəbər tutması və onun gerçək xislətini görməsi gənc qadının bütün həyatını yenidən sorğulamasına gətirib çıxarır. İndi o, əzablarla dolu olan keçmişinin sirlərini aşkara çıxarmalı və özünə etiraf etməkdən boyun qaçırdığı kabus kimi həqiqətlə üzləşməlidir. Dərin daxili böhran keçirən Fərəh bir-birinin ardınca ağlasığmaz hadisələrlə qarşılaşır və bir müddət sonra nəyin doğru, nəyin yalan olduğunu ayırd etməkdə çətinlik çəkir. İndi onun nicatı yalnız öz əlindədir. Fərəh simasına həkk etdiyi saxta xoşbəxtlik maskasını çıxarıb atacaq, yoxsa illərdir oynadığı rolu oynamaqda davam edəcək?  ",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Romanlar & Novellalar"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 28,
+    "soldCount": 25,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "Xülya Sabirli",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 272,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 48,
+    "name": "Ayvinin inqilabı",
+    "author": "Emi Encel",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/9642b3fd-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "9.80 ₼",
+    "content": "Hasarın o tayında... Hələ də sağam. Əgər buna sağ demək mümkündürsə... Adım Ayvi Uestfalldır. On altı yaşlı satqınam. Üç ay əvvəl prezidentin oğlu Bişop Lattaymerə məcburən ərə verilmişəm - savaşı uduzmuş tərəfin bütün qızları evlilik adı altında qaliblərin oğullarına satılır. Amma mənimlə bağlı vəziyyət fərqli idi. Çünki xüsusi bir missiyam vardı: Bişopu öldürmək. Bunun əvəzində mən ona aşiq oldum. İndi isə mən qovulmuş, sivilizasiyadan kənar torpaqların vəhşətinə atılmışam. İntəhası, ümid burada da ölmür. Hasarın bu tayında da həyat var. Amma mən öz keçmişimi keçmişdə qoya bilmirəm. Çünki əməllərim Uestfall hadisələrinin gedişatında elə bir xəyanət zənciri yaradıb ki, bu, bizim hamımızın, ələlxüsus da Bişopun taleyini dəyişəcək. Beləliklə, bu dəfə yalnız sağ qalmaq yetərli deyil... 'Yaxşı işlənmiş obrazlar, mürəkkəb dünya quruluşu, o cümlədən dolaşıq münasibətlər, siyasi azğınlıq və xəyanət oxucularda bu seriyanın ikinci kitabına tələbat yaradır' - SLJ",
+    "category": "Bədii ədəbiyyat",
+    "subcategory": [
+      "Elmi-fantastika & Fantaziya"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN"
+    ],
+    "stockCount": 6,
+    "soldCount": 10,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Emi Encel",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 224,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 49,
+    "name": "Makedoniyali İskəndər və Atropat",
+    "author": "HƏSƏN HƏSƏNOV",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/daa693fe-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "22.00 ₼",
+    "content": "Həsən Həsənovun təqdim olunan monoqrafiyası Azərbaycanın qədim tarixinin mühüm məsələlərini əhatə edən kompleks fənlərarası tədqiqata ilk cəhddir. Monoqrafiyada Azərbaycan adlı ölkənin mənşəyi və onun hakim sülalələri kimi problemlər öz əksini tapıb. Əsərdə tutarlı arqumentlərə əsaslanan və Azərbaycan adlı ölkənin Aşşur imperiyasının süqutundan dərhal sonra yarandığını təsdiqləməyə imkan verən konsepsiya təqdim olunur. Əsərin adından tarixin cəmi 10 ilindən söz açıldığı görünsə də, əslində kitab həmin dövrdən əvvəlki və sonrakı bir neçə əsrin hadisələrini əhatə edir. Antik dövr Azərbaycanının görkəmli dövlət xadimi Atropatın obrazı və onun Makedoniyalı İsgəndərlə əməkdaşlığı monoqrafiyada müfəssəl işıqlandırılır. Müstəqil Atropatena dövlətinin mərhələli yüksəliş prosesi elmdə ilk dəfə olaraq ətraflı təsvir edilir. Qədim Midiya və Atropatenanın ərazi hüdudları və onların etnik tərkibinə dair problemlərin əsərdə geniş işıqlandırılması faktını da xüsusi qeyd etmək lazımdır. Kitab həm mütəxəssislər, həm də geniş oxucu kütləsi üçün nəzərdə tutulub.",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Tarix, hüquq & Siyasi"
+    ],
+    "language": [
+      "AZ"
+    ],
+    "stockCount": 3,
+    "soldCount": 5,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "HƏSƏN HƏSƏNOV",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 300,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 50,
+    "name": "Azərbaycanın bitki aləmi",
+    "author": "AYDIN ƏSGƏROV",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5c806110-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
+    "price": "30.80 ₼",
+    "content": "Kitab bütövlükdə Azərbaycanın zəngin və rəngarəng bitki aləminə həsr olunmuş, Azərbaycan dilində yazılmış ilk fundamental əsər hesab edilə bilər. Kitaba müəllifin 1970-ci ildən indiyədək apardığı tədqiqatlar nəticəsində müəyyən etdiyi 250 cinsə aid 900-dən çox yeni takson daxil edilmişdir. Burada bütövlükdə 159 fəsilə və 1.117 cinsə aid 4.961 ali bitki növü, o cümlədən respublikamızın yabanı florasında yayılması müəyyən edilmiş 4.557 növ haqqında müfəssəl məlumat verilir. Kitabda Azərbaycanda təbii bitən 1.500 növdən çox qida əhəmiyyətli, eləcə də dərman, efir yaglı, vitaminli, yabanı tərəvəz, boya və başqa sahələrdə istifadə oluna bilən bitkilərin arealı, faydalı xüsusiyyətləri və istifadə perspektivləri barədə biliklər, bu zəngin sərvətdən səmərəli istifadə yolları verilmişdir. Əsər Azərbaycanın bitki aləmi, xüsusən onun yabanı biomüxtəlifliyi sahəsində çalışan mütəxəsislər, botaniklər, ekoloqlar, eləcə də ali məktəblərin biologiya, ekologiya fakültələrinin tələbələri və Azərbaycan təbiəti ilə maraqlananlar üçün dəyərli vəsaitdir.",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Akademik"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "Aydın Əsgərov",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 444
+      }
+    
+  },
+  {
+    "id": 51,
+    "name": "Stoiklərin həyatı",
+    "author": "Rayan Holidey",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a235d6a1-7f10-11ef-a555-503eaa120fc7_1.jpg.webp",
+    "price": "11.90 ₼",
+    "content": "Bu, sadəcə, bir tarix kitabı deyil. Bu kitab Epiktetdən tutmuş Mark Avreliyə – quldan imperatora qədər hər kəsə fəlsəfəni öz həyatında tətbiq etməkdə kömək edəcək şəkildə tərtib olunub. Müəlliflər əsrlər boyunca Seneka, Kato, Siseron kimi şəxsləri birləşdirən əsas dəyər və ideyaların üzərinə işıq salır. Stoiklərin həyatı əsəri əbədi stoik fəzilətlərlə – mətanət, təmkin, ədalət və müdrikliklə yaşayan insanların maraqlı həyat yollarını təqdim edir, qədim filosofların xoşbəxtlik, uğur, mətinlik və fəzilət barədə öyrətdiklərini çatdırır. Məşhur stoiklərin asan mənimsənilən mini-bioqrafiyalarından ibarət olan bu kitab stoisizmi sevən və ona uyğun yaşayan insanlara bu fəlsəfənin mənasını izah edir, onların mübarizəsindən və uğurlarından çıxarılan ibrətamiz dərsləri önə çəkir. Stoisizm Zenon adlı müflis olmuş tacirin Afinada, Stoa Poikile adlı yerdə ilk məktəbi yaratmasından 2300 il sonra idmançılardan tutmuş siyasətçilərə qədər böyüklük axtaran bütün insanlar arasında yeni auditoriya tapıb. Təəccüblü deyil ki, fəlsəfə və onun özünənəzarət, fəzilət və nəzarət edə bilmədiyimiz məsələlərə laqeydlik prinsipləri Roma imperiyasının xaosunda olduğu qədər bu gün də aktualdır. Dəyərli baxış və hekayələrin xəzinəsi olan bu kitab keçmişdə ilham qaynağı axtaranların dönə-dönə müraciət edəcəyi bir mənbədir.",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Şəxsi inkişaf"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Rayan Holidey",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 428,
+        "yaş": 16
+      }
+    
+  },
+  {
+    "id": 52,
+    "name": "Paralel dünyada. Birinci hissə - Ağ, çəhrayı və narıncı",
+    "author": "Aysel Şıxlı",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/b889cae5-bf6a-11ef-a56b-503eaa120fc7_1.jpg.webp",
+    "price": "11.90 ₼",
+    "content": "'FENTEZİ JANRINDA YAZILMIŞ TETRALOGİYA Yer planetində artıq həyat yox idi. Ana təbiətin məhvinə gətirib çıxarmış insan əməlləri sivilizasiyaya son qoymuşdu. Uzaq gələcəkdə paralel dünyada yenidən yaranmış Həyat insanların keçmişdəki səhvlərini təkrar etməməsi üçün onların mənfi duyğularını qəlblərindən çıxarıb möhürləmiş, hər birini fərqli istiqamətlərə yönəldərək möhürləri qorumaq üçün krallıqlar yaratmışdı. Sıx meşələrin ayırdığı bu əzəmətli krallıqlar bir-birindən kəskin fərqlənirdi: adaların üstündə yerləşən Lumiya krallığı, güclü küləklərin cövlan etdiyi Eley krallığı, uçurumların üstündə ucalan Eskada krallığı, yaşıl ağacların arasında salınmış Milaros – elfl ər krallığı, soyuq Akara krallığı və odlar diyarı Kanar krallığı... Möhürlərdən birinin oğurlanması bütün krallıqların taleyini dəyişir. Axtarışlara başlamaq üçün Yuxarı Eleydən olan Kay adlı əsgər seçilir. Bu yolda onun ən yaxın dostu və yol yoldaşı küləkdən yaranmış məsləhətçi Reyn olur... Onları qarşıda nələr gözləyir? Lumiyanın gözəl şahzadəsi Elyanoraya olan hissləri Kaya həqiqətləri açmaqda mane olmayacaq ki?!'",
+    "category": "Qeyri-bədii ədəbiyyat",
+    "subcategory": [
+      "Elmi-fantastika & Fantaziya"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature":
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "Aysel Şıxlinskaya",
+        "nəşriyyat": "Teas Press",
+        "səhifə": 228
+      }
+    
+  },
+  {
+    "id": 53,
+    "name": "70 kq",
+    "author": "Viam Əhməd",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/8f7da344-7a63-11ef-a554-503eaa120fc7_1.jpg.webp",
+    "price": "6.90 ₼",
+    "content": "'Sürətli çatdırılma şirkəti yükünüzü etibarlı şəkildə ünvanına çatdıracaq. Çəkidən asılı olmayaraq, ən ucuz qiymətə çatdırırıq. Kiçik qeyd: maksimum çəki 70 kq Camalla Məhbub problemlə üzləşiblər. Camal bu problemin ideal həllini tapsa da, reklamın sonundakı kiçik qeyd gözündən yayınıb. Bu qeydin ucbatından Camalın başına macəralar gəlir, nəticədə böyük həyat təcrübəsi qazanır... Bəs, görəsən, Məhbub haradadır?'",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Hekayələr & Oçerklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Viam Əhməd",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 48
+      }
+    
+  },
+  {
+    "id": 54,
+    "name": "Alma ağacı",
+    "author": "Volkan Yavəroğlu",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/dba31894-e494-11ef-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "4.90 ₼",
+    "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Kukuli, Tinki və Minki səhər durub çölə çıxanda gördüklərinə inana bilmədilər. Səhərə qədər davam edən qasırğa aləmi yerlə yeksan etmiş, ən çox sevdikləri alma ağacının gövdəsi qırılıb yana əyilmişdi. Təbiətsevər dostlarımız alma ağacını əvvəlki vəziyyətinə qaytarmaq üçün müxtəlif yollara əl atdılar.",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Hekayələr & Oçerklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Volkan Yavəroğlu",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 24,
+        "yaş": "Universal"
+      }
+    
+  },
+  {
+    "id": 55,
+    "name": "Bir şəhər, bir liman",
+    "author": "Reyhan Yusifqızı",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/a726e106-da36-11ef-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "10.90 ₼",
+    "content": "Xəzərin qoynuna sığınmış BİR ŞƏHƏR, BİR LİMAN... Flaminqoların qorunduğu, ceyranların sığınacaq tapdığı liman... Bu liman Böyük İpək Yolunun dənizdən keçən marşrutlarından birinin üstündə yerləşir. Tarixi keçmişimizi bu günümüzlə, bu günümüzü isə gələcəklə birləşdirir. Azərbaycanın “dəniz qapısı” sayılan Bakı Beynəlxalq Dəniz Ticarət Limanı dünyada “Yaşıl Liman” və “Ekoloji Təmiz” liman olması ilə seçilir. İllər boyu limançıların: işçi, sürücü, krançı, tərsanəçi, dispetçerlərin fədakar əməyi sayəsində var olan bu liman gənclik şəhəridir, gənclərin şəhəridir. Gələcəkdə Bakı limanı müasir texnologiyalardan istifadə etməyi bacaran bilikli, zəkalı, qabiliyyətli gənclərin sayəsində daha da şöhrətlənəcək, 'XXI əsrin limanı' olacaq.",
+    "category": "Qeyri-bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Səyahət & Məkanlar"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "bərk",
+        "dil": "AZE",
+        "müəllif": "Reyhan Yusifqızı",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 36,
+        "yaş": "Universal"
+      }
+    
+  },
+  {
+    "id": 55,
+    "name": "Dadlı günəş",
+    "author": "Ramiz Rövşən",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/aa6e7499-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "11.90 ₼",
+    "content": "....Sağ ol, günəş, çox sağ ol! Hər gün bizə qonaq ol! Niyə hamı deyir: “Sən yaman odlu günəşsən”. Yox, sən odlu deyilsən, sən lap dadlı günəşsən!..",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Poemalar"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Ramiz Rövşən",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 64,
+        "yaş": "Universal"
+      }
+    
+  },
+  {
+    "id": 56,
+    "name": "İtmiş kitab",
+    "author": "Erge Özcan",
+    "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/54753d1d-e495-11ef-a56c-503eaa120fc7_1.jpg.webp",
+    "price": "4.90 ₼",
+    "content": "Kukuli və dostları bu dəfə balaca oxucuları ilə maraqlı bir hekayə kitabında görüşürlər. Tinki dostları ilə kinoteatra gedəcəyi üçün çox həyəcanlı idi. Əvvəlcə Missivadan götürdüyü kitabı qaytarmalı idi. Lakin kitabı qoyduğu yerdə tapa bilmirdi. Elə macəra da bundan sonra başlayır. Siz də Tinki, Minki və Kukulinin bu macərasına qoşulmaq istərdinizmi?",
+    "category": "Bədii uşaq ədəbiyyatı",
+    "subcategory": [
+      "Hekayələr & Oçerklər"
+    ],
+    "language": [
+      "AZ",
+      "RU",
+      "EN",
+      "FR",
+      "DE"
+    ],
+    "stockCount": 2,
+    "soldCount": 3,
+    "view": 0,
+    "feature": 
+      {
+        "cild": "Yumşaq",
+        "dil": "AZE",
+        "müəllif": "Erge Özcan",
+        "nəşriyyat": "3 Alma",
+        "səhifə": 24,
+        "yaş": "Universal"
+      }
+    
+  }
+]
     ],
     "slides": [
         {"img": "https://www.libraff.az/images/abt__ut2/banners/all/1313/Banner_Desktop_v2.webp"},
